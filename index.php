@@ -13,6 +13,7 @@
 					</div>
 					<h1 class="pointer_heading ">Best Liquidity Solutions For Your Forex Brokerage</h1>
 					<p class="banner_para">Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
+                    <button type="button" class="btn btn-warning mt-4" data-bs-toggle="modal" data-bs-target="#exampleModal">Request Quote</button>
 				</div>
 			</div>
 			

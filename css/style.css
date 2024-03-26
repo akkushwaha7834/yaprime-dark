@@ -136,6 +136,11 @@ body{
 	left: -15%;
 	top: -40%;
 }
+.banner_content .btn.btn-warning{
+    margin: 0 auto;
+    display: flex;
+    
+}
 .banner_shape {
     -webkit-animation: left-right 2s cubic-bezier(0.41, 0.15, 0.64, 0.86) infinite alternate;
     -moz-animation: left-right 2s cubic-bezier(0.41, 0.15, 0.64, 0.86) infinite alternate;
