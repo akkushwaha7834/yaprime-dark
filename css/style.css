@@ -2,6 +2,9 @@
 body{
 	background: #020202;
 }
+.text-primary{
+    color: #FFC008!important;
+}
 
 /*Menu*/
 
@@ -139,7 +142,6 @@ body{
 .banner_content .btn.btn-warning{
     margin: 0 auto;
     display: flex;
-    
 }
 .banner_shape {
     -webkit-animation: left-right 2s cubic-bezier(0.41, 0.15, 0.64, 0.86) infinite alternate;
@@ -187,12 +189,9 @@ body{
 /*STeps Process*/
 
 .title.mb-5 h3{
-    color: #fff;
     font-size: 40px;
 }
-.title.mb-5 h4{
-    color: #FFC008;
-}
+
 .process-steps {
     padding: 50px 0;
     background: #000;
@@ -366,16 +365,51 @@ body{
     font-size: 18px
 }
 
-
-
-
-
-
-
-
-
 /*Step Process*/
 
+/*Mission Start*/
+
+.mission_content_col{
+    padding: 20px;
+    color: #fff;
+}
+
+.mission_image_box{
+    border-radius: 15px;
+    background: #302c26;
+    box-shadow: 9.98239px 9.98239px 9.98239px 0px rgba(0, 0, 0, 0.05);
+}
+.mission_vision{
+    background: url(../images/map.png);
+    padding: 100px 0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    z-index: 1;
+
+}
+.mission_visionn::after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background: radial-gradient(rgb(255 190 0 / 39%), rgb(0 0 0));
+    left: 0;
+    opacity: 0.4;
+    z-index: 0;
+}
+
+section.mission_visionn {
+    position: relative;
+}
+
+
+
+
+
+/*Mission End*/
 
 
 

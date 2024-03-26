@@ -1,5 +1,6 @@
 <?php include_once('./include/header.php') ?>
 
+<!-- Banner Start -->
 <section class="home-banner">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -20,7 +21,10 @@
 		</div>
 	</div>
 </section>
+<!-- Banner End -->
 
+
+<!-- Factoids Start -->
 <section class="trading_indices">
   <div class="container">
     <div class="row gy-4">
@@ -83,13 +87,15 @@
     </div>
   </div>
 </section>
+<!-- Facroids End -->
 
 
+<!-- Steps Start -->
 <section class="process-steps overflow-hidden">
     <div class="container work-process  pb-5 pt-5">
         <div class="title mb-5 text-center">
-          <h4>Lorem Ipsum</h4>
-            <h3>Setup your own forex brokerage in 8 Steps</h3>
+          <h4 class="text-primary">Lorem Ipsum</h4>
+            <h3 class="text-white">Setup your own forex brokerage in 8 Steps</h3>
         </div>
         <!-- ============ step 1 =========== -->
         <div class="row">
@@ -286,5 +292,60 @@
         <!-- ============ -->
     </div>
 </section>
+<!-- Steps end -->
+
+<!-- Mission Vision Start -->
+
+<section class="mission_visionn">
+    <div class="container mission_vision">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h4 class="text-primary">About Us</h4>
+                <h2 class="text-white">YaPrime: Inspiring Future Forex Brokers</h2>
+                <p class="text-white">At YaPrime we understand the importance of seamless and efficient Metatrader 4/5 trading platform administration for your trading endeavors. With years of experience in the financial technology industry, we have established ourselves as a trusted partner for traders seeking reliable Metatrader administration support.</p>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-7 col_first_half">
+                <div class="mission_image_box">
+                    <div class="row align-items-center">
+                        <div class="col-md-5 first_col_img">
+                            <lottie-player src="images/lottie-json/our_vision.json" background="transparent" speed="1"  direction="1" mode="normal" loop autoplay></lottie-player>
+                        </div>
+                        <div class="col-md-7">
+                            <div class="mission_content_col">
+                                <h4 class="text-primary">Our Mission</h4>
+                                <p>To revolutionise the forex industry by giving our partners and institutional clients best-in-class liquidity solutions, exceptional trading technology, and endless support, all geared towards their ongoing growth in a constantly evolving market. With a focus on innovation, we strive to develop and provide advanced bespoke forex liquidity solutions to enable our clients to achieve unprecedented growth. </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5"></div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-5 text-lg-end">
+                <!-- <img src="images/arrow-swap.webp" alt=""> -->
+            </div>
+            <div class="col-md-7 col_first_half">
+                <div class="mission_image_box">
+                    <div class="row">
+                        <div class="col-md-5 first_col_img">
+                            <lottie-player src="images/lottie-json/our_mission.json" background="transparent" speed="1"  direction="1" mode="normal" loop autoplay></lottie-player>
+                        </div>
+                        <div class="col-md-7">
+                            <div class="mission_content_col">
+                                <h4 class="text-primary">Our Unique Approach</h4>
+                                <p>We understand that every client is unique, so we offer customised solutions catering to their needs. When you partner with YaPrime, you receive more than just liquidity services. Our team of experts works closely with our clients to offer innovative ideas, tools for easier operations, risk management solutions, dealing desk strategies, marketing leads, and much more. We constantly innovate and improve our services to stay ahead of the curve and deliver solutions that help our clients succeed in the ever-changing financial landscape.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Mission Vision End -->
 
 <?php include_once('./include/footer.php') ?>
