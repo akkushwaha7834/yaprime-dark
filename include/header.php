@@ -7,6 +7,7 @@
 	<link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon">
 	<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css" />
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 	<link rel="stylesheet" href="./vendor/font-awesome/css/all.min.css">
 	<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 </head>
