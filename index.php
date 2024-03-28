@@ -360,9 +360,8 @@
                                   <img src="images/artificial-intelligence.jpeg">
                                   <h5 class="card-title">Reliable technology</h5>
                               </div>
-                       <br>
+                            <br>
                               <p class="card-text">We underpin and adorn the most accurate technology. We offer you stable, fast and most Reliable technology for your platform and Business.</p>
-                             
                             </div>
                           </div>
                     </div>
@@ -375,7 +374,6 @@
                               </div>
                               <br>
                               <p class="card-text">A fully automated client service is in the spotlight. A new generation of professional trader’s room for stepping up into the competitive Forex Market</p>
-                             
                             </div>
                           </div>
                     </div>
@@ -392,7 +390,6 @@
                               </div>
                             <br>
                               <p class="card-text">Our express start-up package will provide you with an award-winning trading platform and easy to use back office system.</p>
-                             
                             </div>
                           </div>
                     </div>
@@ -426,9 +423,7 @@
                                   <h5 class="card-title">Prime Account</h5>
                               </div>
                             <br>
-                              <p class="card-text">
-An exclusive account for high volume traders looking for competitive pricing and extra benefits.</p>
-                             
+                              <p class="card-text">An exclusive account for high volume traders looking for competitive pricing and extra benefits.</p>
                             </div>
                           </div>
                     </div>
