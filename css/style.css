@@ -498,16 +498,16 @@ section.mission_visionn {
     padding: 50px 50px 0;
     flex-direction: column;
     align-items: flex-start;
-    color: #000;
-    background-color: #f9fafb;
+    color: #fff;
+    background-color: #020202;
 }
 .social-media-icon a {
     margin-right: 2%;
     font-size: x-large;
-    color: black;
+    color: #ffc008;
 }
 .col-width h6 {
-    color: black;
+    color: #ffc008;
 }
 .footer-section li {
     list-style: none;
@@ -516,7 +516,7 @@ section.mission_visionn {
 }
 .col-width a {
     text-decoration: none;
-    color: #000;
+    color: #fff;
     transition-duration: .3s;
 }
 .footer-section ul {
@@ -533,7 +533,7 @@ section.mission_visionn {
     justify-content: space-between;
 }
 .copyrights a {
-    color: #000;
+    color: #fff;
     text-decoration: none;
 }
 .copyrights a:hover {
@@ -543,13 +543,85 @@ section.mission_visionn {
     font-size: 14px;
     font-weight: 300;
 }
+.footer_hr{
+    color: #fac213;
+}
+.social-media-icon a:hover{
+    color: #fff;
+}
 
+/*Partners Start*/
+.partners-section{
+    padding: 80px 0;
+    background: #020202;
+}
+#partners .nav-link.active {
+    border-radius: 12px 12px 0px 0px;
+    background-color: rgb(255 250 239);
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #fac211;
+    border-bottom: 1px solid #fffaef;
+    border-top: 1px solid #fac211;
+    border-right: 1px solid #fac211;
+    border-left: 1px solid #fac211;
+}
+#partners .nav-link:hover {
+    border-bottom: 1px solid #fffaef;
+    border-top: 1px solid #fac211;
+    border-right: 1px solid #fac211;
+    border-left: 1px solid #fac211;
+    border-radius: 12px 12px 0px 0px;
+}
+#partners .nav-tabs {
+    border-bottom: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#partners .nav-link {
+    padding: 15px 30px;
+    color: #fff;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.tab-border {
+    border: 1px solid #fac211;
+    padding: 10px 99px;
+    background: #fffaef;
+}
+.partners_card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 140px;
+    position: relative;
+    margin: 20px 0;
+    border-radius: 10px;
+    border: 2px solid #fac213;
+    background: #fffaef;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+.partners_card img {
+    max-width: 80%;
+    opacity: 1;
+    transition: 0.35s linear;
+    transition-property: transform, opacity;
+}
+.partners_card:hover img {
+    opacity: 1;
+    transform: scale(0.8);
+}
 
-
-
-
-
-
+/*Partners End*/
 
 
 

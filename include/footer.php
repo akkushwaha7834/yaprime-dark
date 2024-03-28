@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8">
-        <img src="images/logo.svg" class='footer-logo' />
+        <img src="images/logo.webp" class='footer-logo' />
 
         <p>YaPrime is a group of expert broker consultants here to guide you and help you in setting up your
           own Forex business. Since its advent, YaPrime has advanced with the sole goal in mind – to
@@ -18,7 +18,7 @@
         </div>
       </div>
       <div class="col-md-4">
-        <h4>Connect with us</h4>
+        <h4 class="text-primary">Connect with us</h4>
         <div class="address">
 
 
