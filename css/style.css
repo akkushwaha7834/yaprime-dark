@@ -400,18 +400,97 @@ body{
     opacity: 0.4;
     z-index: 0;
 }
-
 section.mission_visionn {
     position: relative;
+}
+/*Mission End*/
+
+/*Unique features*/
+.unique-section {
+    text-align: center;
+    background-color: #000;
+    padding: 80px 60px;
+}
+.featured-card {
+    margin-bottom: 20%;
+    padding: 5px;
+    text-align: left;
+    border-radius: 16px !important;
+}
+.featured-card h5{
+    margin-left: 5%;
+}
+.featured-sidebar {
+    display: grid;
+    align-items: center;
+    align-self: center;
+}
+.featured-card-wrapper {
+    display: flex;
+    justify-items: space-between;
+}
+.card.featured-card.one {
+    border-style: solid;
+    border-width: 0 0 5px;
+    border-color: #fac213;
+    box-shadow: 0 0 40px 0 rgba(0, 0, 0, .1);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    background: #302C26;
+    color: #fff;
+}
+.card.featured-card.one:hover {
+    border-style: solid;
+    border-width: 5px 0 0;
+    border-color: #FAC214;
+    cursor: pointer;
+}
+.feqatured-card-header {
+    display: flex;
+    align-items: center;
+}
+.card.featured-card.two {
+    border-style: solid;
+    border-width: 5px 0 0;
+    border-color: #fac213;
+    box-shadow: 0 0 40px 0 rgba(0, 0, 0, .1);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    background: #302C26;
+    color: #fff;
+}
+.card.featured-card.two:hover {
+    border-style: solid;
+    border-width: 0 0 5px;
+    border-color: #FAC214;
+    cursor: pointer;
+}
+.border-anim {
+    position: relative;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.border-anim::before {
+    position: absolute;
+    content: '';
+    inset: 0;
+    border: 3px dashed #fac211;
+    border-right-color: #fac211;
+    border-left-color: #fac211;
+    border-radius: 50%;
+    animation: round 30s 0s infinite linear;
+    background: #F9FAFB;
+}
+@keyframes round{
+    100% {
+        transform: rotate(360deg)
+    }
 }
 
 
 
-
-
-/*Mission End*/
-
-
+/*Unique features*/
 
 /*Footer*/
 .footer-section {

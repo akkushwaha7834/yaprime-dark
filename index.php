@@ -23,7 +23,6 @@
 </section>
 <!-- Banner End -->
 
-
 <!-- Factoids Start -->
 <section class="trading_indices">
   <div class="container">
@@ -88,7 +87,6 @@
   </div>
 </section>
 <!-- Facroids End -->
-
 
 <!-- Steps Start -->
 <section class="process-steps overflow-hidden">
@@ -295,7 +293,6 @@
 <!-- Steps end -->
 
 <!-- Mission Vision Start -->
-
 <section class="mission_visionn">
     <div class="container mission_vision">
         <div class="row">
@@ -345,7 +342,115 @@
         </div>
     </div>
 </section>
-
 <!-- Mission Vision End -->
+
+<!-- Unique features -->
+<section class="unique-section">
+    <div class="container">
+            <h4 class="text-primary">Unique features</h4>
+            <h2 class="text-white">YaPrime: Inspiring Future Forex Brokers</h2>
+            <p class="text-white">Our array of Forex broker products &amp; services ready to start quickly</p>
+        <div class="row">
+            <div class="col-md-4 featured-sidebar">
+                <div class="row featured-card-wrapper">
+                    <div class="col-md-12">
+                        <div class="card  featured-card one">
+                            <div class="card-body ">
+                              <div class="feqatured-card-header">
+                                  <img src="images/artificial-intelligence.jpeg">
+                                  <h5 class="card-title">Reliable technology</h5>
+                              </div>
+                       <br>
+                              <p class="card-text">We underpin and adorn the most accurate technology. We offer you stable, fast and most Reliable technology for your platform and Business.</p>
+                             
+                            </div>
+                          </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="card  featured-card two">
+                            <div class="card-body ">
+                              <div class="feqatured-card-header">
+                                  <img src="images/customer-service.jpeg">
+                                  <h5 class="card-title">CRM &amp; BACK OFFICE</h5>
+                              </div>
+                              <br>
+                              <p class="card-text">A fully automated client service is in the spotlight. A new generation of professional trader’s room for stepping up into the competitive Forex Market</p>
+                             
+                            </div>
+                          </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 ">
+                <div class="row featured-card-wrapper">
+                    <div class="col-md-12">
+                        <div class="card  featured-card one">
+                            <div class="card-body ">
+                              <div class="feqatured-card-header">
+                                  <img src="images/shuttle.jpeg">
+                                  <h5 class="card-title">Quick start up </h5>
+                              </div>
+                            <br>
+                              <p class="card-text">Our express start-up package will provide you with an award-winning trading platform and easy to use back office system.</p>
+                             
+                            </div>
+                          </div>
+                    </div>
+                    <div class="col-md-12 featured-card text-center">
+                        <figure class="mb-0 border-anim mx-auto">
+                            <!-- <img src="images/unique-feature.png" alt="" class="img-fluid"> -->
+                            <lottie-player src="images/lottie-json/banner.json" style="width: 250px; height: 250px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+                        </figure>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="card  featured-card two">
+                            <div class="card-body ">
+                              <div class="feqatured-card-header">
+                                  <img src="images/forex-liquidity.jpeg">
+                                  <h5 class="card-title">Forex Liquidity </h5>
+                              </div>
+                            <br>
+                              <p class="card-text">Choose YaPrime for unparalleled liquidity solutions, bespoke services, and a trusted partnership that drives your financial success .We offer a range of integration options, including APIs and FIX connectivity, to make it easy to integrate with existing systems</p>
+                            </div>
+                          </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 featured-sidebar">
+                <div class="row featured-card-wrapper">
+                    <div class="col-md-12">
+                        <div class="card  featured-card one">
+                            <div class="card-body ">
+                              <div class="feqatured-card-header">
+                                  <img src="images/customer-service-1.jpeg">
+                                  <h5 class="card-title">Prime Account</h5>
+                              </div>
+                            <br>
+                              <p class="card-text">
+An exclusive account for high volume traders looking for competitive pricing and extra benefits.</p>
+                             
+                            </div>
+                          </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="card  featured-card two">
+                            <div class="card-body ">
+                              <div class="feqatured-card-header">
+                                  <img src="images/profits.jpeg">
+                                  <h5 class="card-title">Profitable booking</h5>
+                              </div>
+                              <br>
+                              <p class="card-text">We offer Flexible system of trading settings with Convenient filters and reports. Apart from this we provide Client transfer from A-booking to B-booking and back with just one click.</p>
+                             
+                            </div>
+                          </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+   </section>
+
+<!-- Unique features -->
 
 <?php include_once('./include/footer.php') ?>
