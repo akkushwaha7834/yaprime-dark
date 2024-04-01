@@ -509,73 +509,61 @@
     <div class="tab-content tab-border" id="nav-tabContent">
       <div class="tab-pane fade show active" id="nav-forex" role="tabpanel" aria-labelledby="nav-forex-tab" >
         <div class="row">
-          <div class="col-6 col-lg-2 liquidity_partners">
-            <div class="partners_card">
-              <img src="./images/cfh-claering.png" alt="" />
-            </div>
-          </div>
-          <div class="col-6 col-lg-2 liquidity_partners">
-            <div class="partners_card">
-              <img src="./images/lmax.png" alt="" />
-            </div>
-          </div>
-          <div class="col-6 col-lg-2 liquidity_partners">
-            <div class="partners_card">
-              <img src="./images/match-trade.png" alt="" />
-            </div>
-          </div>
-          <div class="col-6 col-lg-2 liquidity_partners">
-            <div class="partners_card">
-              <img src="./images/finalto.png" alt="" />
-            </div>
-          </div>
-          <div class="col-6 col-lg-2 liquidity_partners">
-            <div class="partners_card">
-              <img src="./images/match-prime.png" alt="" />
-            </div>
+          <div class="col-md-12">
+              <ul class="partners_tabs d-flex align-items-center justify-content-center">
+                  <li>
+                    <img src="./images/cfh-claering.png" alt="" class="img-fluid" />
+                  </li>
+                  <li>
+                    <img src="./images/lmax.png" alt="" class="img-fluid" />
+                  </li>
+                  <li>
+                    <img src="./images/match-trade.png" alt="" class="img-fluid" />
+                  </li>
+                  <li>
+                    <img src="./images/finalto.png" alt="" class="img-fluid" />
+                  </li>
+                  <li>
+                    <img src="./images/match-prime.png" alt="" class="img-fluid" />
+                  </li>
+              </ul>
           </div>
         </div>
       </div>
       <div class="tab-pane fade" id="nav-crypto" role="tabpanel" aria-labelledby="nav-crypto-tab" >
         <div class="row">
-          <div class="col-6 col-lg-3">
-            <div class="partners_card">
-              <img src="./images/fortex.png" alt="" />
-            </div>
-          </div>
-          <div class="col-6 col-lg-3">
-            <div class="partners_card">
-              <img src="./images/one-zero.png" alt="" />
-            </div>
-          </div>
-          <div class="col-6 col-lg-3">
-            <div class="partners_card">
-              <img src="./images/brokeree.png" alt="" />
-            </div>
+          <div class="col-md-12">
+              <ul class="partners_tabs d-flex align-items-center justify-content-center">
+                  <li>
+                    <img src="./images/fortex.png" alt="" class="img-fluid">
+                  </li>
+                  <li>
+                    <img src="./images/one-zero.png" alt="" class="img-fluid">
+                  </li>
+                  <li>
+                    <img src="./images/brokeree.png" alt="" class="img-fluid">
+                  </li>
+              </ul>
           </div>
         </div>
       </div>
       <div class="tab-pane fade" id="nav-metals" role="tabpanel" aria-labelledby="nav-metals-tab" >
         <div class="row">
-          <div class="col-6 col-lg-3">
-            <div class="partners_card">
-              <img src="./images/metaquotes.png" alt="" />
-            </div>
-          </div>
-          <div class="col-6 col-lg-3">
-            <div class="partners_card">
-              <img src="./images/ctrader.png" alt="" />
-            </div>
-          </div>
-          <div class="col-6 col-lg-3">
-            <div class="partners_card">
-              <img src="./images/match-trade.png" alt="" />
-            </div>
-          </div>
-          <div class="col-6 col-lg-3">
-            <div class="partners_card">
-              <img src="./images/vertex.png" alt="" />
-            </div>
+          <div class="col-md-12">
+              <ul class="partners_tabs d-flex align-items-center justify-content-center">
+                  <li>
+                    <img src="./images/metaquotes.png" alt="" class="img-fluid">
+                  </li>
+                  <li>
+                    <img src="./images/ctrader.png" alt="" class="img-fluid">
+                  </li>
+                  <li>
+                    <img src="./images/match-trade.png" alt="" class="img-fluid">
+                  </li>
+                  <li>
+                    <img src="./images/vertex.png" alt="" class="img-fluid">
+                  </li>
+              </ul>
           </div>
         </div>
       </div>

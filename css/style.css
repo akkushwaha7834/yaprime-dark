@@ -570,13 +570,13 @@ section.mission_visionn {
 }
 #partners .nav-link.active {
     border-radius: 12px 12px 0px 0px;
-    background-color: rgb(255 250 239);
+    background-color: rgb(48 44 38);
     font-size: 12px;
     letter-spacing: 2px;
     line-height: 16px;
     text-transform: uppercase;
     color: #fac211;
-    border-bottom: 1px solid #fffaef;
+    border-bottom: 1px solid rgb(48 44 38);
     border-top: 1px solid #fac211;
     border-right: 1px solid #fac211;
     border-left: 1px solid #fac211;
@@ -605,8 +605,25 @@ section.mission_visionn {
 }
 .tab-border {
     border: 1px solid #fac211;
-    padding: 10px 99px;
-    background: #fffaef;
+    padding: 30px;
+    background: #050505;
+}
+.partners_tabs li{
+    float: left;
+    width: 18%;
+    list-style: none;
+    background: #fff;
+    margin: 5px 10px;
+    padding: 20px;
+    border-radius: 50%;
+}
+.partners_tabs li:hover {
+    background: #ffc109;
+    
+}
+.partners_tabs li img{
+    transition: 0.35s linear;
+    transition-property: transform, opacity;
 }
 .partners_card {
     display: flex;
@@ -614,7 +631,7 @@ section.mission_visionn {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 140px;
+    height: 100%;
     position: relative;
     margin: 20px 0;
     border-radius: 10px;
