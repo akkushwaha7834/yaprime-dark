@@ -17,7 +17,6 @@
                     <button type="button" class="btn btn-warning mt-4" data-bs-toggle="modal" data-bs-target="#exampleModal">Request Quote</button>
 				</div>
 			</div>
-			
 		</div>
 	</div>
 </section>
@@ -346,203 +345,311 @@
 
 <!-- Unique features -->
 <section class="unique-section">
-    <div class="container">
-            <h4 class="text-primary">Unique features</h4>
-            <h2 class="text-white">YaPrime: Inspiring Future Forex Brokers</h2>
-            <p class="text-white">Our array of Forex broker products &amp; services ready to start quickly</p>
-        <div class="row">
-            <div class="col-md-4 featured-sidebar">
-                <div class="row featured-card-wrapper">
-                    <div class="col-md-12">
-                        <div class="card  featured-card one">
-                            <div class="card-body ">
-                              <div class="feqatured-card-header">
-                                  <img src="images/artificial-intelligence.jpeg">
-                                  <h5 class="card-title">Reliable technology</h5>
-                              </div>
-                            <br>
-                              <p class="card-text">We underpin and adorn the most accurate technology. We offer you stable, fast and most Reliable technology for your platform and Business.</p>
-                            </div>
-                          </div>
-                    </div>
-                    <div class="col-md-12">
-                        <div class="card  featured-card two">
-                            <div class="card-body ">
-                              <div class="feqatured-card-header">
-                                  <img src="images/customer-service.jpeg">
-                                  <h5 class="card-title">CRM &amp; BACK OFFICE</h5>
-                              </div>
-                              <br>
-                              <p class="card-text">A fully automated client service is in the spotlight. A new generation of professional trader’s room for stepping up into the competitive Forex Market</p>
-                            </div>
-                          </div>
-                    </div>
+  <div class="container">
+    <h4 class="text-primary">
+      Unique features
+    </h4>
+    <h2 class="text-white">
+      YaPrime: Inspiring Future Forex Brokers
+    </h2>
+    <p class="text-white">
+      Our array of Forex broker products &amp; services ready to start quickly
+    </p>
+    <div class="row">
+      <div class="col-md-4 featured-sidebar">
+        <div class="row featured-card-wrapper">
+          <div class="col-md-12">
+            <div class="card  featured-card one">
+              <div class="card-body ">
+                <div class="feqatured-card-header">
+                  <img src="images/artificial-intelligence.jpeg">
+                  <h5 class="card-title">
+                    Reliable technology
+                  </h5>
                 </div>
+                <br />
+                <p class="card-text">
+                  We underpin and adorn the most accurate technology. We offer you stable,
+                  fast and most Reliable technology for your platform and Business.
+                </p>
+              </div>
             </div>
-            <div class="col-md-4 ">
-                <div class="row featured-card-wrapper">
-                    <div class="col-md-12">
-                        <div class="card  featured-card one">
-                            <div class="card-body ">
-                              <div class="feqatured-card-header">
-                                  <img src="images/shuttle.jpeg">
-                                  <h5 class="card-title">Quick start up </h5>
-                              </div>
-                            <br>
-                              <p class="card-text">Our express start-up package will provide you with an award-winning trading platform and easy to use back office system.</p>
-                            </div>
-                          </div>
-                    </div>
-                    <div class="col-md-12 featured-card text-center">
-                        <figure class="mb-0 border-anim mx-auto">
-                            <!-- <img src="images/unique-feature.png" alt="" class="img-fluid"> -->
-                            <lottie-player src="images/lottie-json/banner.json" style="width: 250px; height: 250px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
-                        </figure>
-                    </div>
-                    <div class="col-md-12">
-                        <div class="card  featured-card two">
-                            <div class="card-body ">
-                              <div class="feqatured-card-header">
-                                  <img src="images/forex-liquidity.jpeg">
-                                  <h5 class="card-title">Forex Liquidity </h5>
-                              </div>
-                            <br>
-                              <p class="card-text">Choose YaPrime for unparalleled liquidity solutions, bespoke services, and a trusted partnership that drives your financial success .We offer a range of integration options, including APIs and FIX connectivity, to make it easy to integrate with existing systems</p>
-                            </div>
-                          </div>
-                    </div>
+          </div>
+          <div class="col-md-12">
+            <div class="card  featured-card two">
+              <div class="card-body ">
+                <div class="feqatured-card-header">
+                  <img src="images/customer-service.jpeg" />
+                  <h5 class="card-title">
+                    CRM &amp; BACK OFFICE
+                  </h5>
                 </div>
+                <br />
+                <p class="card-text">
+                  A fully automated client service is in the spotlight. A new generation
+                  of professional trader’s room for stepping up into the competitive Forex
+                  Market
+                </p>
+              </div>
             </div>
-            <div class="col-md-4 featured-sidebar">
-                <div class="row featured-card-wrapper">
-                    <div class="col-md-12">
-                        <div class="card  featured-card one">
-                            <div class="card-body ">
-                              <div class="feqatured-card-header">
-                                  <img src="images/customer-service-1.jpeg">
-                                  <h5 class="card-title">Prime Account</h5>
-                              </div>
-                            <br>
-                              <p class="card-text">An exclusive account for high volume traders looking for competitive pricing and extra benefits.</p>
-                            </div>
-                          </div>
-                    </div>
-                    <div class="col-md-12">
-                        <div class="card  featured-card two">
-                            <div class="card-body ">
-                              <div class="feqatured-card-header">
-                                  <img src="images/profits.jpeg">
-                                  <h5 class="card-title">Profitable booking</h5>
-                              </div>
-                              <br>
-                              <p class="card-text">We offer Flexible system of trading settings with Convenient filters and reports. Apart from this we provide Client transfer from A-booking to B-booking and back with just one click.</p>
-                            </div>
-                          </div>
-                    </div>
-                </div>
-            </div>
+          </div>
         </div>
+      </div>
+      <div class="col-md-4 ">
+        <div class="row featured-card-wrapper">
+          <div class="col-md-12">
+            <div class="card  featured-card one">
+              <div class="card-body ">
+                <div class="feqatured-card-header">
+                  <img src="images/shuttle.jpeg" />
+                  <h5 class="card-title">
+                    Quick start up
+                  </h5>
+                </div>
+                <br />
+                <p class="card-text">
+                  Our express start-up package will provide you with an award-winning trading
+                  platform and easy to use back office system.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 featured-card text-center">
+            <figure class="mb-0 border-anim mx-auto">
+              <lottie-player src="images/lottie-json/banner.json" style="width: 250px; height: 250px"
+              background="transparent" speed="1" direction="1" mode="normal" loop=""
+              autoplay="">
+              </lottie-player>
+            </figure>
+          </div>
+          <div class="col-md-12">
+            <div class="card  featured-card two">
+              <div class="card-body ">
+                <div class="feqatured-card-header">
+                  <img src="images/forex-liquidity.jpeg" />
+                  <h5 class="card-title">
+                    Forex Liquidity
+                  </h5>
+                </div>
+                <br />
+                <p class="card-text">
+                  Choose YaPrime for unparalleled liquidity solutions, bespoke services,
+                  and a trusted partnership that drives your financial success .We offer
+                  a range of integration options, including APIs and FIX connectivity, to
+                  make it easy to integrate with existing systems
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 featured-sidebar">
+        <div class="row featured-card-wrapper">
+          <div class="col-md-12">
+            <div class="card  featured-card one">
+              <div class="card-body ">
+                <div class="feqatured-card-header">
+                  <img src="images/customer-service-1.jpeg" />
+                  <h5 class="card-title">
+                    Prime Account
+                  </h5>
+                </div>
+                <br />
+                <p class="card-text">
+                  An exclusive account for high volume traders looking for competitive pricing
+                  and extra benefits.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <div class="card  featured-card two">
+              <div class="card-body ">
+                <div class="feqatured-card-header">
+                  <img src="images/profits.jpeg" />
+                  <h5 class="card-title">
+                    Profitable booking
+                  </h5>
+                </div>
+                <br />
+                <p class="card-text">
+                  We offer Flexible system of trading settings with Convenient filters and
+                  reports. Apart from this we provide Client transfer from A-booking to B-booking
+                  and back with just one click.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-   </section>
-
+  </div>
+</section>
 <!-- Unique features -->
 
 <!-- Partners -->
-
 <section class="partners-section">
-             <div class="container partners_logo">
-             <div class="container partners_logo">
-                <h2 class="text-primary text-center">Our Partners</h2>
-                <p class="text-white text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-
-                </div>
-<nav id="partners" class="mt-5">
-             <div class="nav nav-tabs" id="nav-tab" role="tablist">
-              <button class="nav-link partners active" id="nav-forex-tab" data-bs-toggle="tab" data-bs-target="#nav-forex" type="button" role="tab" aria-controls="nav-forex" aria-selected="true">Liquidity Partners</button>
-              <button class="nav-link partners" id="nav-crypto-tab" data-bs-toggle="tab" data-bs-target="#nav-crypto" type="button" role="tab" aria-controls="nav-crypto" aria-selected="false" tabindex="-1">Technology Partners</button>
-              <button class="nav-link partners" id="nav-metals-tab" data-bs-toggle="tab" data-bs-target="#nav-metals" type="button" role="tab" aria-controls="nav-metals" aria-selected="false" tabindex="-1">Trading Platform Partners</button>
-             
-            </div>
-</nav>
-            <div class="tab-content tab-border" id="nav-tabContent">
-            <div class="tab-pane fade show active" id="nav-forex" role="tabpanel" aria-labelledby="nav-forex-tab">
-          <div class="row">
-            <div class="col-6 col-lg-2 liquidity_partners">
-              <div class="partners_card">
-                <img src="./images/cfh-claering.png" alt="">
-              </div>
-            </div>
-            <div class="col-6 col-lg-2 liquidity_partners">
-              <div class="partners_card">
-                <img src="./images/lmax.png" alt="">
-              </div>
-            </div>
-            <div class="col-6 col-lg-2 liquidity_partners">
-              <div class="partners_card">
-                <img src="./images/match-trade.png" alt="">
-              </div>
-            </div>
-            <div class="col-6 col-lg-2 liquidity_partners">
-              <div class="partners_card">
-                <img src="./images/finalto.png" alt="">
-              </div>
-            </div>
-            <div class="col-6 col-lg-2 liquidity_partners">
-              <div class="partners_card">
-                <img src="./images/match-prime.png" alt="">
-              </div>
+  <div class="container partners_logo">
+    <div class="container partners_logo">
+      <h2 class="text-primary text-center">Our Partners</h2>
+      <p class="text-white text-center">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      </p>
+    </div>
+    <nav id="partners" class="mt-5">
+      <div class="nav nav-tabs" id="nav-tab" role="tablist">
+        <button class="nav-link partners active" id="nav-forex-tab" data-bs-toggle="tab" data-bs-target="#nav-forex" type="button" role="tab" aria-controls="nav-forex" aria-selected="true" >Liquidity Partners
+        </button>
+        <button class="nav-link partners" id="nav-crypto-tab" data-bs-toggle="tab" data-bs-target="#nav-crypto" type="button" role="tab" aria-controls="nav-crypto" aria-selected="false" tabindex="-1">Technology Partners
+        </button>
+        <button class="nav-link partners" id="nav-metals-tab" data-bs-toggle="tab" data-bs-target="#nav-metals" type="button" role="tab" aria-controls="nav-metals" aria-selected="false" tabindex="-1" >Trading Platform Partners
+        </button>
+      </div>
+    </nav>
+    <div class="tab-content tab-border" id="nav-tabContent">
+      <div class="tab-pane fade show active" id="nav-forex" role="tabpanel" aria-labelledby="nav-forex-tab" >
+        <div class="row">
+          <div class="col-6 col-lg-2 liquidity_partners">
+            <div class="partners_card">
+              <img src="./images/cfh-claering.png" alt="" />
             </div>
           </div>
+          <div class="col-6 col-lg-2 liquidity_partners">
+            <div class="partners_card">
+              <img src="./images/lmax.png" alt="" />
             </div>
-            <div class="tab-pane fade" id="nav-crypto" role="tabpanel" aria-labelledby="nav-crypto-tab">
-            <div class="row">
-            <div class="col-6 col-lg-3">
-              <div class="partners_card">
-                <img src="./images/fortex.png" alt="">
-              </div>
-            </div>
-            <div class="col-6 col-lg-3">
-              <div class="partners_card">
-                <img src="./images/one-zero.png" alt="">
-              </div>
-            </div>
-            <div class="col-6 col-lg-3">
-              <div class="partners_card">
-                <img src="./images/brokeree.png" alt="">
-              </div>
-            </div>
-
           </div>
-
+          <div class="col-6 col-lg-2 liquidity_partners">
+            <div class="partners_card">
+              <img src="./images/match-trade.png" alt="" />
             </div>
-            <div class="tab-pane fade" id="nav-metals" role="tabpanel" aria-labelledby="nav-metals-tab">
-            <div class="row">
-            <div class="col-6 col-lg-3">
-              <div class="partners_card">
-                <img src="./images/metaquotes.png" alt="">
-              </div>
+          </div>
+          <div class="col-6 col-lg-2 liquidity_partners">
+            <div class="partners_card">
+              <img src="./images/finalto.png" alt="" />
             </div>
-            <div class="col-6 col-lg-3">
-              <div class="partners_card">
-                <img src="./images/ctrader.png" alt="">
-              </div>
-            </div>
-            <div class="col-6 col-lg-3">
-              <div class="partners_card">
-                <img src="./images/match-trade.png" alt="">
-              </div>
-            </div>
-            <div class="col-6 col-lg-3">
-              <div class="partners_card">
-                <img src="./images/vertex.png" alt="">
-              </div>
+          </div>
+          <div class="col-6 col-lg-2 liquidity_partners">
+            <div class="partners_card">
+              <img src="./images/match-prime.png" alt="" />
             </div>
           </div>
         </div>
+      </div>
+      <div class="tab-pane fade" id="nav-crypto" role="tabpanel" aria-labelledby="nav-crypto-tab" >
+        <div class="row">
+          <div class="col-6 col-lg-3">
+            <div class="partners_card">
+              <img src="./images/fortex.png" alt="" />
+            </div>
+          </div>
+          <div class="col-6 col-lg-3">
+            <div class="partners_card">
+              <img src="./images/one-zero.png" alt="" />
+            </div>
+          </div>
+          <div class="col-6 col-lg-3">
+            <div class="partners_card">
+              <img src="./images/brokeree.png" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tab-pane fade" id="nav-metals" role="tabpanel" aria-labelledby="nav-metals-tab" >
+        <div class="row">
+          <div class="col-6 col-lg-3">
+            <div class="partners_card">
+              <img src="./images/metaquotes.png" alt="" />
+            </div>
+          </div>
+          <div class="col-6 col-lg-3">
+            <div class="partners_card">
+              <img src="./images/ctrader.png" alt="" />
+            </div>
+          </div>
+          <div class="col-6 col-lg-3">
+            <div class="partners_card">
+              <img src="./images/match-trade.png" alt="" />
+            </div>
+          </div>
+          <div class="col-6 col-lg-3">
+            <div class="partners_card">
+              <img src="./images/vertex.png" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-</div>
+  </div>
 </section>
-
 <!-- Partners -->
+
+<!-- Which terminal to choose Start -->
+<section class="broker_setup">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h4 class="text-primary text-center">Broker Setup</h4>
+                <h2 class="text-white text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h2>
+                <p class="text-white text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            </div>
+        </div>
+        <div class="row mt-5 align-items-center broker-setup-row">
+            <div class="col-md-5">
+                <div class="img_boxx">
+                    <h2 class="text-primary">
+                        White Label Solutions
+                    </h2>
+                    <p class="text-white">
+                        Experience the power of trading and grow your business success with our premium White Label Solutions. Discover the advantages of using YaPrime’s White Label Solutions. Experience the power of trading and grow your business success with our premium White Label Solutions. Discover the advantages of using YaPrime’s White Label Solutions.
+                    </p>
+                     <a href="#" class="btn btn-warning mt-4">
+                        Learn More
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-7">
+                <img src="images/overview.png" alt="" width="100%" class="img-fluid">
+            </div>
+        </div>
+        <div class="row mt-5 align-items-center broker-setup-row">
+            <div class="col-md-7">
+                <img src="images/overview.png" alt="" width="100%" class="img-fluid" style="-webkit-transform: scaleX(-1);transform: scaleX(-1);">
+            </div>
+            <div class="col-md-5">
+                <div class="img_boxx">
+                    <h2 class="text-primary">
+                        White Label Solutions
+                    </h2>
+                    <p class="text-white">
+                        Experience the power of trading and grow your business success with our premium White Label Solutions. Discover the advantages of using YaPrime’s White Label Solutions. Experience the power of trading and grow your business success with our premium White Label Solutions. Discover the advantages of using YaPrime’s White Label Solutions.
+                    </p>
+                     <a href="#" class="btn btn-warning mt-4">
+                        Learn More
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5 align-items-center broker-setup-row">
+            <div class="col-md-5">
+                <div class="img_boxx">
+                    <h2 class="text-primary">
+                        White Label Solutions
+                    </h2>
+                    <p class="text-white">
+                        Experience the power of trading and grow your business success with our premium White Label Solutions. Discover the advantages of using YaPrime’s White Label Solutions. Experience the power of trading and grow your business success with our premium White Label Solutions. Discover the advantages of using YaPrime’s White Label Solutions.
+                    </p>
+                     <a href="#" class="btn btn-warning mt-4">
+                        Learn More
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-7">
+                <img src="images/overview.png" alt="" width="100%" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Which terminal to choose END -->
 
 <?php include_once('./include/footer.php') ?>

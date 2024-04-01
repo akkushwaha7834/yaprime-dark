@@ -1,6 +1,7 @@
 *{margin: 0;padding: 0; }
 body{
 	background: #020202;
+    font-family: "Manrope", Sans-serif;;
 }
 .text-primary{
     color: #FFC008!important;
@@ -623,9 +624,20 @@ section.mission_visionn {
 
 /*Partners End*/
 
+/*Broker Setup Start*/
+.broker_setup{
+    padding: 80px 0;
+    background: #000;
+}
+
+/*Broker Setup End*/
 
 
-
+.broker-setup-row{
+    background: radial-gradient(rgb(255 233 168 / 39%), rgb(0 0 0));
+    padding: 30px;
+    border-radius: 20px;
+}
 
 /*Footer*/
 
