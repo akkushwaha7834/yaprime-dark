@@ -609,20 +609,20 @@
                 </div>
             </div>
             <div class="col-md-7">
-                <img src="images/overview.png" alt="" width="100%" class="img-fluid">
+                <img src="images/overview.png" alt="" width="100%" class="img-fluid" data-aos="fade-left" data-aos-duration="1000">
             </div>
         </div>
         <div class="row mt-5 align-items-center broker-setup-row">
             <div class="col-md-7">
-                <img src="images/overview.png" alt="" width="100%" class="img-fluid" style="-webkit-transform: scaleX(-1);transform: scaleX(-1);">
+                <img src="images/overview.png" alt="" width="100%" class="img-fluid"  data-aos="fade-right" data-aos-duration="1000">
             </div>
             <div class="col-md-5">
                 <div class="img_boxx">
                     <h2 class="text-primary">
-                        White Label Solutions
+                        Admin Consultation
                     </h2>
                     <p class="text-white">
-                        Experience the power of trading and grow your business success with our premium White Label Solutions. Discover the advantages of using YaPrime’s White Label Solutions. Experience the power of trading and grow your business success with our premium White Label Solutions. Discover the advantages of using YaPrime’s White Label Solutions.
+                        At YaPrime, we understand that running a Forex brokerage involves more than just trading and client interactions. It requires seamless backend operations to ensure everything runs smoothly. That's where our Admin Consultation services come in.
                     </p>
                      <a href="#" class="btn btn-warning mt-4">
                         Learn More
@@ -634,10 +634,10 @@
             <div class="col-md-5">
                 <div class="img_boxx">
                     <h2 class="text-primary">
-                        White Label Solutions
+                        CRM & API
                     </h2>
                     <p class="text-white">
-                        Experience the power of trading and grow your business success with our premium White Label Solutions. Discover the advantages of using YaPrime’s White Label Solutions. Experience the power of trading and grow your business success with our premium White Label Solutions. Discover the advantages of using YaPrime’s White Label Solutions.
+                        Contact us to explore how our CRM and API integration can empower your business and provide your clients and partners with a unique trading experience.
                     </p>
                      <a href="#" class="btn btn-warning mt-4">
                         Learn More
@@ -645,7 +645,7 @@
                 </div>
             </div>
             <div class="col-md-7">
-                <img src="images/overview.png" alt="" width="100%" class="img-fluid">
+                <img src="images/overview.png" alt="" width="100%" class="img-fluid" data-aos="fade-left" data-aos-duration="1000">
             </div>
         </div>
     </div>

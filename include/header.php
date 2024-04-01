@@ -17,7 +17,7 @@
 <body>
 <?php include_once('./include/trading-view-widget.php') ?>
 
-<header class="header navbar-dark">
+<header class="header navbar-dark" id="StickyHeader">
  <nav class="navbar navbar-expand-lg py-0">
     <div class="container">
        <a class="navbar-brand" href="index.php">

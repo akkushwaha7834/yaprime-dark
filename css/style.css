@@ -9,6 +9,18 @@ body{
 
 /*Menu*/
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9;
+  background: #000;
+  box-shadow: 0px 0px 4px 2px #ffc109;
+}
+
+.sticky + .content {
+  padding-top: 100px;
+}
 .nav-link{
 	color: #fff;
 }
