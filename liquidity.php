@@ -1,4 +1,5 @@
 <?php include_once('./include/header.php') ?>
+
 <section class="about_banner">
 	<div class="container">
 		<div class="row">
@@ -18,4 +19,5 @@
 		</div>
 	</div>
 </section>
+
 <?php include_once('./include/footer.php') ?>
