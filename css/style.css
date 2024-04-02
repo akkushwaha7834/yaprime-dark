@@ -813,6 +813,7 @@ ul.check-list li span{
 }
 .about-bridge .card{
     background: #302C26;
+    border: 2px solid #302C26;
 }
 .about-bridge .card-title{
     color: #FFC107;
@@ -833,6 +834,10 @@ ul.check-list li span{
     transform: translate(50%, -30px);
     box-shadow: 0 0px 20px #0004;
 }
+.about-bridge .card-hover:hover img {
+    transform: rotate(360deg);
+    transition: all .5s ease-in-out;
+}
 .about-bridge .card-hover:hover .card-icon {
     box-shadow: none;
     border-color: #fff;
@@ -846,10 +851,69 @@ ul.check-list li span{
 }
 .about-bridge .card-hover:hover{
     background: #000;
+    border: 2px solid #fff;
+    transition: all .3s ease-in-out;
+    cursor: pointer;
 }
-.about-bridge .card-hover:hover .ca{
-/*    color: #fff;*/
+.mission-vission{
+    padding: 80px 0;
+    background: #020202;
+    position: relative;
+    background: url();
+    background-size: cover;
+    background-position: center;
 }
+.mission-vission::after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background: radial-gradient(#ffe9a863, rgb(0 0 0));
+    left: 0;
+    opacity: 0.5;
+    z-index: 0;
+}
+.mission_vision_content{
+        position: relative;
+    z-index: 1;
+}
+.border-animm {
+    position: relative;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.border-animm::before {
+    position: absolute;
+    content: '';
+    inset: 0;
+    border: 3px dashed #fac211;
+    border-right-color: #fac211;
+    border-left-color: #fac211;
+    border-radius: 50%;
+    animation: round 30s 0s infinite linear;
+}
+.border-animm img{
+    width: 90%;
+}
+.strong_framework{
+    padding: 80px 0;
+}
+.framework_content{
+    background: radial-gradient(rgb(255 233 168 / 39%), rgb(0 0 0));
+    padding: 50px 30px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
 
 
 

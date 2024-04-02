@@ -78,6 +78,60 @@
 	</div>
 </section>
 
+<section class="mission-vission">
+	<div class="container position-relative">
+		<div class="mission_vision_content">
+			<div class="row align-items-center">
+				<div class="col-md-6">
+					<h3 class="text-primary">Our Mission</h3>
+					<p class="text-white">
+						Our Mission is to dominate the Forex Industry by giving our broker partners best-in-class liquidity solutions, state-of-the-art technology, and endless support, all geared toward their ongoing prosperity in a continually evolving market. We are the Top Tier Liquidity Providers aiming to raise the bar higher. We consistently advance our technology and tools to supply the best solutions possible for the most successful FX brokerages.
+					</p>
+				</div>
+				<div class="col-md-6 d-flex align-items-center justify-content-center">
+					<figure class="mb-0 border-animm mx-auto">
+						<img src="https://tkpt.edu.in/wp-content/uploads/2021/03/uc.gif">
+            		</figure>
+				</div>
+			</div>
+			<div class="row mt-5 align-items-center">
+				<div class="col-md-6 d-flex align-items-center">
+					<figure class="mb-0 border-animm mx-auto">
+						<img src="https://tkpt.edu.in/wp-content/uploads/2021/03/uc.gif">
+            		</figure>
+				</div>
+				<div class="col-md-6">
+					<h3 class="text-primary">Our Mission</h3>
+					<p class="text-white">
+						Our Mission is to dominate the Forex Industry by giving our broker partners best-in-class liquidity solutions, state-of-the-art technology, and endless support, all geared toward their ongoing prosperity in a continually evolving market. We are the Top Tier Liquidity Providers aiming to raise the bar higher. We consistently advance our technology and tools to supply the best solutions possible for the most successful FX brokerages.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Framework -->
+<section class="strong_framework">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="framework_content">
+					<h2 class="text-primary">
+						Strong Regulatory Framework
+					</h2>
+					<p class="text-white">
+						YaPrime is regulated under the Mauritius Financial Services Authority(MFSA). We adhere to strict regulatory guidelines, ensuring our operations' transparency, security, and professionalism. Our commitment to compliance is a core pillar of our business, and we continuously work to maintain the highest in every aspect of our services.
+					</p>
+					<p class="text-white">
+						Our regulation under the MFSA guarantees that we operate within a well-established and secure legal framework. This gives our clients the confidence and trust to partner with us for their liquidity solutions. We prioritise the security of our client's data and assets, implementing robust internal controls and procedures to safeguard sensitive information and client funds.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Framework -->
 <section class="about-bridge">
     <div class="container">
         <div class="row gy-5">
@@ -86,7 +140,7 @@
                 <p class="mb-5 text-white">Discover how our solutions empower your journey</p>
             </div>
             <div class="col-lg-3 col-sm-6">
-                <div class="card border-0 shadow position-relative text-center h-100 card-hover">
+                <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
                         <img src="https://www.yaprime.com/old/public/web/images/growth.png" alt="Grow Your Forex Business" class="img-fluid">
                     </div>
@@ -97,7 +151,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
-                <div class="card border-0 shadow position-relative text-center h-100 card-hover">
+                <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
                         <img src="https://www.yaprime.com/old/public/web/images/scaling.png" alt="Access Global Liquidity Pools" class="img-fluid">
                     </div>
@@ -108,7 +162,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
-                <div class="card border-0 shadow position-relative text-center h-100 card-hover">
+                <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
                         <img src="https://www.yaprime.com/old/public/web/images/simplifying.png" alt="Scale Your Trading Offering" class="img-fluid">
                     </div>
@@ -119,7 +173,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
-                <div class="card border-0 shadow position-relative text-center h-100 card-hover">
+                <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
                         <img src="https://www.yaprime.com/old/public/web/images/global.png" alt="Simplify Cost and Complexity" class="img-fluid">
                     </div>
@@ -130,7 +184,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
-                <div class="card border-0 shadow position-relative text-center h-100 card-hover">
+                <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
                         <img src="https://www.yaprime.com/old/public/web/images/customise-and-personalize.png" alt="Customise and Personalize" class="img-fluid">
                     </div>
@@ -141,7 +195,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
-                <div class="card border-0 shadow position-relative text-center h-100 card-hover">
+                <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
                         <img src="https://www.yaprime.com/old/public/web/images/expertise-in-global-expansion.png" alt="Expertise in Global Expansion" class="img-fluid">
                     </div>
@@ -152,7 +206,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
-                <div class="card border-0 shadow position-relative text-center h-100 card-hover">
+                <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
                         <img src="https://www.yaprime.com/old/public/web/images/trading-technology.png" alt="Top-Tier Trading Technology" class="img-fluid">
                     </div>
@@ -163,7 +217,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
-                <div class="card border-0 shadow position-relative text-center h-100 card-hover">
+                <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
                         <img src="https://www.yaprime.com/old/public/web/images/access-to-global-markets.png" alt="Access to Global Markets" class="img-fluid">
                     </div>
