@@ -907,8 +907,33 @@ ul.check-list li span{
     padding: 50px 30px;
     border-radius: 20px;
 }
+/*About End*/
 
-
+/*Contact Us PAge*/
+.contact_banner{
+    padding: 150px 0;
+    background: url(../images/contact-banner.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.contact_content {
+    position: relative;
+    z-index: 1;
+}
+.contact_banner::after{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background: radial-gradient(rgb(202 155 17), rgb(0 0 0));
+    left: 0;
+    opacity: 0.5;
+    z-index: 0;
+}
+/*Contact End*/
 
 
 
