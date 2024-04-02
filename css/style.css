@@ -570,13 +570,13 @@ section.mission_visionn {
 }
 #partners .nav-link.active {
     border-radius: 12px 12px 0px 0px;
-    background-color: rgb(48 44 38);
+    background-color: rgb(7 7 7);
     font-size: 12px;
     letter-spacing: 2px;
     line-height: 16px;
     text-transform: uppercase;
     color: #fac211;
-    border-bottom: 1px solid rgb(48 44 38);
+    border-bottom: 1px solid rgb(7 7 7);
     border-top: 1px solid #fac211;
     border-right: 1px solid #fac211;
     border-left: 1px solid #fac211;
@@ -616,14 +616,13 @@ section.mission_visionn {
     margin: 5px 10px;
     padding: 20px;
     border-radius: 50%;
+    transition: all .5s;
 }
 .partners_tabs li:hover {
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.15);
+    transform: translateY(-5px);
     background: #ffc109;
-    
-}
-.partners_tabs li img{
-    transition: 0.35s linear;
-    transition-property: transform, opacity;
+    cursor: pointer;
 }
 .partners_card {
     display: flex;
