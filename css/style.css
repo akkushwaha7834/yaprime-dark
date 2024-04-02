@@ -126,10 +126,66 @@ body{
     line-height: 30px;
     font-weight: 600;
 }
-
-
 /*Menu*/
 
+/*Footer*/
+.footer-section {
+    display: flex;
+    padding: 50px 50px 0;
+    flex-direction: column;
+    align-items: flex-start;
+    color: #fff;
+    background-color: #020202;
+}
+.social-media-icon a {
+    margin-right: 2%;
+    font-size: x-large;
+    color: #ffc008;
+}
+.col-width h6 {
+    color: #ffc008;
+}
+.footer-section li {
+    list-style: none;
+    font-weight: 300;
+    line-height: 27px;
+}
+.col-width a {
+    text-decoration: none;
+    color: #fff;
+    transition-duration: .3s;
+}
+.footer-section ul {
+    padding-left: 0;
+}
+.col-width a:hover {
+    margin-left: 5px;
+    transform: translateX(5px);
+    color: #FAC211;
+}
+.copyrights {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.copyrights a {
+    color: #fff;
+    text-decoration: none;
+}
+.copyrights a:hover {
+    color: #fac213;
+}
+.footer-section p {
+    font-size: 14px;
+    font-weight: 300;
+}
+.footer_hr{
+    color: #fac213;
+}
+.social-media-icon a:hover{
+    color: #fff;
+}
+/*Footer End*/
 
 /*Home Banner*/
 .home-banner{
@@ -501,67 +557,7 @@ section.mission_visionn {
     }
 }
 
-
-
 /*Unique features*/
-
-/*Footer*/
-.footer-section {
-    display: flex;
-    padding: 50px 50px 0;
-    flex-direction: column;
-    align-items: flex-start;
-    color: #fff;
-    background-color: #020202;
-}
-.social-media-icon a {
-    margin-right: 2%;
-    font-size: x-large;
-    color: #ffc008;
-}
-.col-width h6 {
-    color: #ffc008;
-}
-.footer-section li {
-    list-style: none;
-    font-weight: 300;
-    line-height: 27px;
-}
-.col-width a {
-    text-decoration: none;
-    color: #fff;
-    transition-duration: .3s;
-}
-.footer-section ul {
-    padding-left: 0;
-}
-.col-width a:hover {
-    margin-left: 5px;
-    transform: translateX(5px);
-    color: #FAC211;
-}
-.copyrights {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-.copyrights a {
-    color: #fff;
-    text-decoration: none;
-}
-.copyrights a:hover {
-    color: #fac213;
-}
-.footer-section p {
-    font-size: 14px;
-    font-weight: 300;
-}
-.footer_hr{
-    color: #fac213;
-}
-.social-media-icon a:hover{
-    color: #fff;
-}
 
 /*Partners Start*/
 .partners-section{
@@ -726,17 +722,134 @@ section.mission_visionn {
 /*pop Up Form*/
 
 
+/*About PAGE*/
+.about_banner{
+    background: url(../images/about.svg);
+    padding: 150px 0;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.about_banner::after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background: radial-gradient(rgb(202 155 17), rgb(0 0 0));
+    left: 0;
+    opacity: 0.5;
+    z-index: 0;
+}
+.about-content-section{
+    padding: 80px 0;
+    background: #000;
+}
+.check-list li {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    line-height: 18px;
+}
+.check-list {
+    padding: 0;
+}
+ul.check-list li span{
+    border-radius: 50%;
+    height: 18px;
+    width: 18px;
+    text-align: center;
+}
 
-
-
-
-
-
-
-
-
-
-
+.check-list span {
+    background: #fff;
+    color: #ffc109;
+}
+.about-box-bg{
+    background: url(../images/work-petern.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    animation: ripple 5s infinite;
+    transition: all 400ms ease;
+}
+.about-box{
+    position: relative;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.about-box img{
+    position: relative;
+}
+.rotation-img{
+    -webkit-animation: rotation 15s infinite linear;
+}
+@keyframes ripple{
+    0% {
+        transform: scale(0.8);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(0.8);
+    }
+}
+@keyframes rotation{
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+    }
+}
+.about-bridge{
+    padding: 80px 0;
+    background: #000;
+}
+.about-bridge .card{
+    background: #302C26;
+}
+.about-bridge .card-title{
+    color: #FFC107;
+}
+.about-bridge .card-text{
+    color: #fff;
+}
+.about-bridge .card-icon {
+    width: 80px;
+    height: 80px;
+    display: grid;
+    place-content: center;
+    background: #ffc109;
+    border: 2px solid transparent;
+    border-radius: 50%;
+    position: absolute;
+    right: 50%;
+    transform: translate(50%, -30px);
+    box-shadow: 0 0px 20px #0004;
+}
+.about-bridge .card-hover:hover .card-icon {
+    box-shadow: none;
+    border-color: #fff;
+    background-color: #000;
+}
+.about-bridge .card-hover *{
+    transition: all .3s ease-in-out;
+}
+.about-bridge .card-hover:hover .card-text{
+    color: #fff;
+}
+.about-bridge .card-hover:hover{
+    background: #000;
+}
+.about-bridge .card-hover:hover .ca{
+/*    color: #fff;*/
+}
 
 
 
