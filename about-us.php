@@ -101,9 +101,9 @@
             		</figure>
 				</div>
 				<div class="col-md-6">
-					<h3 class="text-primary">Our Mission</h3>
+					<h3 class="text-primary">Our Unique Approach</h3>
 					<p class="text-white">
-						Our Mission is to dominate the Forex Industry by giving our broker partners best-in-class liquidity solutions, state-of-the-art technology, and endless support, all geared toward their ongoing prosperity in a continually evolving market. We are the Top Tier Liquidity Providers aiming to raise the bar higher. We consistently advance our technology and tools to supply the best solutions possible for the most successful FX brokerages.
+						We understand that every client is unique, so we offer customised solutions catering to their needs. When you partner with YaPrime, you receive more than just liquidity services. Our team of experts works closely with our clients to offer innovative ideas, tools for easier operations, risk management solutions, dealing desk strategies, marketing leads, and much more. We constantly innovate and improve our services to stay ahead of the curve and deliver solutions that help our clients succeed in the ever-changing financial landscape.
 					</p>
 				</div>
 			</div>
