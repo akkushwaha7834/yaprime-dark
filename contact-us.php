@@ -20,13 +20,31 @@
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-md-4">
-				<figure class="mb-0 border-anim mx-auto">
-	              <lottie-player src="images/lottie-json/banner.json" style="width: 250px; height: 250px"
-	              background="transparent" speed="1" direction="1" mode="normal" loop=""
-	              autoplay="">
-	              </lottie-player>
-	            </figure>
-			</div>
+        		<h4 class="text-primary">Connect with us</h4>
+        		<div class="address">
+	          		<p class="text-white">
+	          			<i class="fa-solid fa-location-dot"></i> 
+	          			Suite 305, Griffith Corporate Centre, Kingstown P.O. Box 1510, Beachmont Kingstown St. Vincent and the Grenadines
+	          		</p>
+					<p class="text-white">
+						<i class="fa-solid fa-phone"></i> 
+						+357 22030234
+					</p>
+					<p class="text-white"> 
+						<i class="fa-solid fa-envelope"></i> 
+						support@yaprime.com
+					</p>
+			        <div class="social-media-icons">
+			          	<h4 class="text-primary">Follow us</h4>
+			          	<a href="#"> <i class="fa-brands fa-facebook"></i></a>
+			          	<a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+			          	<a href="#"> <i class="fa-brands fa-linkedin"></i></a>
+			          	<a href="#"> <i class="fa-brands fa-instagram"></i></a>
+			          	<a href="#"> <i class="fa-brands fa-pinterest"></i></a>
+			          	<a href="#"> <i class="fa-brands fa-youtube"></i></a>
+			        </div>
+		        </div>
+		      </div>
 			<div class="col-md-1"></div>
 			<div class="col-md-7">
 				<div class="contact-form">
@@ -58,6 +76,9 @@
 			</div>
 		</div>
 	</div>
+</section>
+<section class="contact_map">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.8603214722657!2d77.15672907621561!3d28.663900675647696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d036a3146e6e3%3A0xc7a677d027f326e7!2sFXCareers%20%7C%20Currency%20Trading%20Training%20Institute!5e0!3m2!1sen!2sin!4v1712123201958!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
 
 <?php include_once('./include/footer.php') ?>

@@ -976,6 +976,14 @@ background: #302c26;
     display: inline-block;
     cursor: pointer;
 }
+.social-media-icons a {
+    margin-right: 2%;
+    font-size: x-large;
+    color: #fff;
+}
+.social-media-icons a:hover{
+    color: #FFC107;
+}
 /*Contact End*/
 
 
