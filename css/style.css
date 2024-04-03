@@ -1086,7 +1086,48 @@ background: #302c26;
 }
 /*careers End*/
 
-
+/*Career Details Start*/
+.career_details_section {
+    padding: 80px 0;
+    background: radial-gradient(rgb(255 233 168 / 39%), rgb(0 0 0));
+}
+.career_details_list{
+    color: #fff;
+}
+.career_details_list li::before {
+    content: "\f560";
+    font-family: 'FontAwesome';
+    margin-right: 7px;
+    line-height: 30px;
+    color: #FFC007;
+}
+.career_details_list li {
+    list-style: none;
+}
+.career_details_list{
+    padding: 0;
+}
+.careers_sticky_sidebar button {
+    width: 80%;
+    margin-top: 50px;
+}
+.careers_sticky_sidebar {
+    /* padding: 50px 20px; */
+    position: sticky;
+    top: 0;
+    margin: 0 auto;
+    text-align: center;
+}
+.apply_now_btn.btn.btn-primary {
+    background: #fff;
+    border: 1px solid #ffc008;
+    color: #ffc008;
+}
+.apply_now_btn.btn.btn-primary:hover {
+    background: #ffc008;
+    color: #fff;
+}
+/*Career Details End*/
 
 
 
