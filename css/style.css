@@ -1009,6 +1009,13 @@ background: #302c26;
     padding: 80px 0;
     background: #000;
 }
+.mt-s-image {
+    animation: mover 1s infinite  alternate;
+}
+@keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-20px); }
+}
 
 /*Metatrader Support End*/
 
