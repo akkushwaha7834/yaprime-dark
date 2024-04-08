@@ -40,12 +40,12 @@
                                     <th>
                                         Prime VIP
                                         <br>
-                                        <span class="text-primary">$25,000<br>Minimum Deposit</span>
+                                        <span class="text-primary">$50,000<br>Minimum Deposit</span>
                                     </th>
                                     <th>
                                         Prime VVIP
                                         <br>
-                                        <span class="text-primary">$25,000<br>Minimum Deposit</span>
+                                        <span class="text-primary">$1,00,000<br>Minimum Deposit</span>
                                     </th>
                                 </tr>
                             </thead>
