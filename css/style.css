@@ -1191,8 +1191,27 @@ background: #302c26;
     transform: scale(1.06);
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
 }
-
-
+.blog-detail-section{
+    padding: 80px 0;
+    background: #000;
+}
+.main-heading{
+    color: #ffc109;
+}
+.blog-content p{
+    color: #fff;
+}
+.blog-content p a{
+    color: #ffc109;
+}
+.blog-content p strong{
+    color: #ffc109;
+}
+.sidebar-sticky {
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
 
 
 
