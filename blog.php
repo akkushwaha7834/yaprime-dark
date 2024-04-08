@@ -25,11 +25,11 @@
 		<div class="row gy-4">
 			<div class="col-md-4">
 				<div class="card blog-card">
-					<a href="">
+					<a href="blog-detail.php">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
 					</a>
 					<div class="card-body blog-content">
-		              <a href="#">
+		              <a href="blog-detail.php">
 		              	<h5 class="card-title">
 			              	Essential Websites Features Needed for a Forex Brokerage Firms | YaPrime Web Development Services
 			              </h5>
@@ -48,11 +48,11 @@
 			</div>
 			<div class="col-md-4">
 				<div class="card blog-card">
-					<a href="">
+					<a href="blog-detail.php">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
 					</a>
 					<div class="card-body blog-content">
-		              <a href="#">
+		              <a href="blog-detail.php">
 		              	<h5 class="card-title">
 			              	Essential Websites Features Needed for a Forex Brokerage Firms | YaPrime Web Development Services
 			              </h5>
@@ -71,11 +71,11 @@
 			</div>
 			<div class="col-md-4">
 				<div class="card blog-card">
-					<a href="">
+					<a href="blog-detail.php">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
 					</a>
 					<div class="card-body blog-content">
-		              <a href="#">
+		              <a href="blog-detail.php">
 		              	<h5 class="card-title">
 			              	Essential Websites Features Needed for a Forex Brokerage Firms | YaPrime Web Development Services
 			              </h5>
@@ -94,11 +94,11 @@
 			</div>
 			<div class="col-md-4">
 				<div class="card blog-card">
-					<a href="">
+					<a href="blog-detail.php">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
 					</a>
 					<div class="card-body blog-content">
-		              <a href="#">
+		              <a href="blog-detail.php">
 		              	<h5 class="card-title">
 			              	Essential Websites Features Needed for a Forex Brokerage Firms | YaPrime Web Development Services
 			              </h5>
@@ -117,11 +117,11 @@
 			</div>
 			<div class="col-md-4">
 				<div class="card blog-card">
-					<a href="">
+					<a href="blog-detail.php">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
 					</a>
 					<div class="card-body blog-content">
-		              <a href="#">
+		              <a href="blog-detail.php">
 		              	<h5 class="card-title">
 			              	Essential Websites Features Needed for a Forex Brokerage Firms | YaPrime Web Development Services
 			              </h5>
@@ -140,11 +140,11 @@
 			</div>
 			<div class="col-md-4">
 				<div class="card blog-card">
-					<a href="">
+					<a href="blog-detail.php">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
 					</a>
 					<div class="card-body blog-content">
-		              <a href="#">
+		              <a href="blog-detail.php">
 		              	<h5 class="card-title">
 			              	Essential Websites Features Needed for a Forex Brokerage Firms | YaPrime Web Development Services
 			              </h5>
@@ -163,11 +163,11 @@
 			</div>
 			<div class="col-md-4">
 				<div class="card blog-card">
-					<a href="">
+					<a href="blog-detail.php">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
 					</a>
 					<div class="card-body blog-content">
-		              <a href="#">
+		              <a href="blog-detail.php">
 		              	<h5 class="card-title">
 			              	Essential Websites Features Needed for a Forex Brokerage Firms | YaPrime Web Development Services
 			              </h5>
@@ -186,11 +186,11 @@
 			</div>
 			<div class="col-md-4">
 				<div class="card blog-card">
-					<a href="">
+					<a href="blog-detail.php">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
 					</a>
 					<div class="card-body blog-content">
-		              <a href="#">
+		              <a href="blog-detail.php">
 		              	<h5 class="card-title">
 			              	Essential Websites Features Needed for a Forex Brokerage Firms | YaPrime Web Development Services
 			              </h5>
