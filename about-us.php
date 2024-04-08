@@ -142,7 +142,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
-                        <img src="https://www.yaprime.com/old/public/web/images/growth.png" alt="Grow Your Forex Business" class="img-fluid">
+                        <img src="images/growth.png" alt="Grow Your Forex Business" class="img-fluid">
                     </div>
                     <div class="card-body mt-5">
                         <h5 class="card-title">Grow Your Forex Business</h5>
@@ -153,7 +153,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
-                        <img src="https://www.yaprime.com/old/public/web/images/scaling.png" alt="Access Global Liquidity Pools" class="img-fluid">
+                        <img src="images/scaling.png" alt="Access Global Liquidity Pools" class="img-fluid">
                     </div>
                     <div class="card-body mt-5">
                         <h5 class="card-title">Access Global Liquidity&nbsp;Pools</h5>
@@ -164,7 +164,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
-                        <img src="https://www.yaprime.com/old/public/web/images/simplifying.png" alt="Scale Your Trading Offering" class="img-fluid">
+                        <img src="images/simplifying.png" alt="Scale Your Trading Offering" class="img-fluid">
                     </div>
                     <div class="card-body mt-5">
                         <h5 class="card-title">Scale Your Trading Offering</h5>
@@ -175,7 +175,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
-                        <img src="https://www.yaprime.com/old/public/web/images/global.png" alt="Simplify Cost and Complexity" class="img-fluid">
+                        <img src="images/global.png" alt="Simplify Cost and Complexity" class="img-fluid">
                     </div>
                     <div class="card-body mt-5">
                         <h5 class="card-title">Simplify Cost and Complexity</h5>
@@ -186,7 +186,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
-                        <img src="https://www.yaprime.com/old/public/web/images/customise-and-personalize.png" alt="Customise and Personalize" class="img-fluid">
+                        <img src="images/customise-and-personalize.png" alt="Customise and Personalize" class="img-fluid">
                     </div>
                     <div class="card-body mt-5">
                         <h5 class="card-title">Customise and Personalize</h5>
@@ -197,7 +197,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
-                        <img src="https://www.yaprime.com/old/public/web/images/expertise-in-global-expansion.png" alt="Expertise in Global Expansion" class="img-fluid">
+                        <img src="images/expertise-in-global-expansion.png" alt="Expertise in Global Expansion" class="img-fluid">
                     </div>
                     <div class="card-body mt-5">
                         <h5 class="card-title">Expertise in Global Expansion</h5>
@@ -208,7 +208,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
-                        <img src="https://www.yaprime.com/old/public/web/images/trading-technology.png" alt="Top-Tier Trading Technology" class="img-fluid">
+                        <img src="images/trading-technology.png" alt="Top-Tier Trading Technology" class="img-fluid">
                     </div>
                     <div class="card-body mt-5">
                         <h5 class="card-title">Top-Tier Trading Technology</h5>
@@ -219,7 +219,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="card shadow position-relative text-center h-100 card-hover">
                     <div class="card-icon">
-                        <img src="https://www.yaprime.com/old/public/web/images/access-to-global-markets.png" alt="Access to Global Markets" class="img-fluid">
+                        <img src="images/access-to-global-markets.png" alt="Access to Global Markets" class="img-fluid">
                     </div>
                     <div class="card-body mt-5">
                         <h5 class="card-title">Access to Global Markets</h5>

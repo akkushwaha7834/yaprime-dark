@@ -19,5 +19,7 @@
 		</div>
 	</div>
 </section>
-
+<section class="portfolio-content">
+	
+</section>
 <?php include_once('./include/footer.php') ?>
