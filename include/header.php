@@ -18,7 +18,7 @@
 <?php include_once('./include/trading-view-widget.php') ?>
 
 <header class="header navbar-dark" id="StickyHeader">
- <nav class="navbar navbar-expand-lg py-0">
+ <nav class="navbar navbar-expand-lg">
     <div class="container">
        <a class="navbar-brand" href="index.php">
        <img src="images/logo.webp" alt="Logo" title="YaPrime Logo">
