@@ -1162,19 +1162,23 @@ background: #302c26;
 
 .card.blog-card {
     border: none;
-    background: radial-gradient(rgb(255 233 168 / 39%), rgb(0 0 0));
+    background: #171717;
     border-radius: 10px;
     box-shadow: 0 2px 20px rgba(0, 0, 0, 0.5);
     overflow: hidden;
-    cursor: pointer;
+/*    cursor: pointer;*/
     transition: 0.5s ease-in;
     height: 100%;
+}
+.meta_blog i {
+    color: #ffc109;
 }
 .card.blog-card a{
     text-decoration: none;
 }
 .card-title {
     color: #fff;
+    font-size: 19px;
 }
 .meta_blog{
     display: flex;

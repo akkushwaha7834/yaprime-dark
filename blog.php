@@ -23,7 +23,7 @@
 <section class="blog_content">
 	<div class="container">
 		<div class="row gy-4">
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<div class="card blog-card">
 					<a href="">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
@@ -40,13 +40,13 @@
 		            			<i class="fa fa-calendar" aria-hidden="true"></i> 16-01-2024
 			            	</span>
 			            	<span>
-			            		<i class="fa fa-user" aria-hidden="true"></i> <a href="#"> Author Name</a>
+			            		<i class="fa fa-user" aria-hidden="true"></i>  Author Name
 			            	</span>
 		            	</div>
 		            </div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<div class="card blog-card">
 					<a href="">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
@@ -63,13 +63,13 @@
 		            			<i class="fa fa-calendar" aria-hidden="true"></i> 16-01-2024
 			            	</span>
 			            	<span>
-			            		<i class="fa fa-user" aria-hidden="true"></i> <a href="#"> Author Name</a>
+			            		<i class="fa fa-user" aria-hidden="true"></i>  Author Name
 			            	</span>
 		            	</div>
 		            </div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<div class="card blog-card">
 					<a href="">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
@@ -86,13 +86,13 @@
 		            			<i class="fa fa-calendar" aria-hidden="true"></i> 16-01-2024
 			            	</span>
 			            	<span>
-			            		<i class="fa fa-user" aria-hidden="true"></i> <a href="#"> Author Name</a>
+			            		<i class="fa fa-user" aria-hidden="true"></i>  Author Name
 			            	</span>
 		            	</div>
 		            </div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<div class="card blog-card">
 					<a href="">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
@@ -109,13 +109,13 @@
 		            			<i class="fa fa-calendar" aria-hidden="true"></i> 16-01-2024
 			            	</span>
 			            	<span>
-			            		<i class="fa fa-user" aria-hidden="true"></i> <a href="#"> Author Name</a>
+			            		<i class="fa fa-user" aria-hidden="true"></i>  Author Name
 			            	</span>
 		            	</div>
 		            </div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<div class="card blog-card">
 					<a href="">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
@@ -132,13 +132,13 @@
 		            			<i class="fa fa-calendar" aria-hidden="true"></i> 16-01-2024
 			            	</span>
 			            	<span>
-			            		<i class="fa fa-user" aria-hidden="true"></i> <a href="#"> Author Name</a>
+			            		<i class="fa fa-user" aria-hidden="true"></i>  Author Name
 			            	</span>
 		            	</div>
 		            </div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<div class="card blog-card">
 					<a href="">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
@@ -155,13 +155,13 @@
 		            			<i class="fa fa-calendar" aria-hidden="true"></i> 16-01-2024
 			            	</span>
 			            	<span>
-			            		<i class="fa fa-user" aria-hidden="true"></i> <a href="#"> Author Name</a>
+			            		<i class="fa fa-user" aria-hidden="true"></i>  Author Name
 			            	</span>
 		            	</div>
 		            </div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<div class="card blog-card">
 					<a href="">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
@@ -178,13 +178,13 @@
 		            			<i class="fa fa-calendar" aria-hidden="true"></i> 16-01-2024
 			            	</span>
 			            	<span>
-			            		<i class="fa fa-user" aria-hidden="true"></i> <a href="#"> Author Name</a>
+			            		<i class="fa fa-user" aria-hidden="true"></i>  Author Name
 			            	</span>
 		            	</div>
 		            </div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<div class="card blog-card">
 					<a href="">
 						<img src="images/1.jpeg" class="card-img-top" alt="...">
@@ -201,7 +201,7 @@
 		            			<i class="fa fa-calendar" aria-hidden="true"></i> 16-01-2024
 			            	</span>
 			            	<span>
-			            		<i class="fa fa-user" aria-hidden="true"></i> <a href="#"> Author Name</a>
+			            		<i class="fa fa-user" aria-hidden="true"></i>  Author Name
 			            	</span>
 		            	</div>
 		            </div>

@@ -69,7 +69,7 @@
 					            			<i class="fa fa-calendar" aria-hidden="true"></i> 16-01-2024
 						            	</span>
 						            	<span>
-						            		<i class="fa fa-user" aria-hidden="true"></i> <a href="#"> Author Name</a>
+						            		<i class="fa fa-user" aria-hidden="true"></i>  Author Name
 						            	</span>
 					            	</div>
 					            </div>
@@ -92,7 +92,7 @@
 					            			<i class="fa fa-calendar" aria-hidden="true"></i> 16-01-2024
 						            	</span>
 						            	<span>
-						            		<i class="fa fa-user" aria-hidden="true"></i> <a href="#"> Author Name</a>
+						            		<i class="fa fa-user" aria-hidden="true"></i>  Author Name
 						            	</span>
 					            	</div>
 					            </div>
@@ -115,7 +115,7 @@
 					            			<i class="fa fa-calendar" aria-hidden="true"></i> 16-01-2024
 						            	</span>
 						            	<span>
-						            		<i class="fa fa-user" aria-hidden="true"></i> <a href="#"> Author Name</a>
+						            		<i class="fa fa-user" aria-hidden="true"></i>  Author Name
 						            	</span>
 					            	</div>
 					            </div>
