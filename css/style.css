@@ -1246,6 +1246,24 @@ background: #302c26;
 
 
 /*institutional clients Start*/
+.institutional_clients_banner{
+    background: url(../images/ins-clients.jpg);
+    padding: 150px 0;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.institutional_clients_banner::after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background: radial-gradient(rgb(202 155 17), rgb(0 0 0));
+    left: 0;
+    opacity: 0.5;
+    z-index: 0;
+}   
 .institutional-clients{
     padding: 80px 0;
 }
