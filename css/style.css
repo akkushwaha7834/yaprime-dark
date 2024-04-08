@@ -1245,7 +1245,36 @@ background: #302c26;
 
 
 
-
+/*institutional clients Start*/
+.institutional-clients{
+    padding: 80px 0;
+}
+.institutional_clients_table td i.fa.fa-times{
+    color: red;
+    font-size: 20px;
+}
+.institutional_clients_table td i.fas.fa-check{
+    color: #10b65a;
+    font-size: 20px;
+}
+.institutional_clients_table tr td, .institutional_clients_table tr th{
+    padding: 1.5rem 1rem;
+    color: #fff;
+}
+.table>:not(caption)>*>*{
+    background: #171717;
+    border-color: #ffffff14;
+}
+.table>thead{
+    vertical-align: middle;
+}
+.institutional_clients_table td:not(:first-child), .institutional_clients_table th:not(:first-child) {
+    text-align: center
+}
+.institutional_clients_table td:nth-child(3), .institutional_clients_table th:nth-child(3){
+    background: #ffbe0061;
+}
+/*institutional clients End*/
 
 
 
