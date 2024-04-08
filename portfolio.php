@@ -1,12 +1,12 @@
 <?php include_once('./include/header.php') ?>
 
-<section class="about_banner">
+<section class="portfolio_banner">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
 				<div class="banner_content text-center">
 					<h4 class="text-primary">
-						About Us
+						Our Portfolio
 					</h4>
 					<h1 class="text-white about-heading">
 						YaPrime: Inspiring Future Forex Brokers
