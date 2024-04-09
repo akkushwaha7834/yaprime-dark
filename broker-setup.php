@@ -6,7 +6,7 @@
 			<div class="col-md-12">
 				<div class="banner_content text-center">
 					<h4 class="text-primary">
-						About Us
+						Broker Setup
 					</h4>
 					<h1 class="text-white about-heading">
 						YaPrime: Inspiring Future Forex Brokers
