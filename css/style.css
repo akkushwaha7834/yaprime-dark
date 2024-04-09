@@ -1463,6 +1463,44 @@ background: #302c26;
 .counter_content{
     color: #fff;
 }
+.liquidity_benefits_section{
+    padding: 80px 0;
+    background: url(../images/bgdesigns_1_03.webp);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+}
+.liquidity_benefits_section::after{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background: radial-gradient(rgb(255 233 168 / 39%), rgb(0 0 0));
+    left: 0;
+    opacity: 0.5;
+    z-index: 0;
+}
+.image-box {
+    padding: 1rem;
+    border: 1px solid #fff3cd;
+    border-image-source: linear-gradient(90deg, rgb(255 255 255 / 10%) 0%, rgb(255, 193, 7) 50%, rgb(255 255 255 / 10%) 100%);
+    border-image-slice: 1;
+}
+.image_content_box {
+    display: flex;
+    align-items: center;
+}
+.image_content_box img {
+    margin-right: 20px;
+}
+.image_content_box h4{
+    color: #FFC107;
+}
+.image-box p{
+    color: #fff;
+}
 /*Liquidity End*/
 
 
