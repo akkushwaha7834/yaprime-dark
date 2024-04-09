@@ -1506,7 +1506,51 @@ background: #302c26;
     padding: 80px 0;
     background: #000;
 }
-
+.liquidity_faqs{
+    padding: 80px 0;
+    background: url(../images/liquidity_faq.webp);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.banner_content{
+    position: relative;
+    z-index: 1;
+}
+.liquidity_faqs::after{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background: radial-gradient(rgb(202 155 17), rgb(0 0 0));
+    left: 0;
+    opacity: 0.5;
+    z-index: 0;
+}
+.liquidity_faqs .accordion-button:not(.collapsed){
+    background-color: #ffc109;
+    color: #000;
+}
+.liquidity_faqs .accordion-body{
+    background: #020202;
+    color: #fff;
+}
+.liquidity_faqs .accordion-button{
+    background: #000;
+    color: #ffc109;
+}
+.liquidity_faqs .accordion-button:not(.collapsed)::after {
+    content: '+';
+}
+.liquidity_faqs .accordion-button::after {
+    background: none;
+    content: '-';
+    font-size: 1.5rem;
+    line-height: 0.8rem;
+    text-align: center;
+}
 
 
 

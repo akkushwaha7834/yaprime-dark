@@ -367,4 +367,62 @@
         </div>
     </div>
 </section>
+<section class="liquidity_faqs">
+	<div class="banner_content">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col-md-12">
+					<h4 class="text-primary">
+						FAQS
+					</h4>
+					<h2 class="text-white">
+						Frequently Asked Questions
+					</h2>
+				</div>
+			</div>
+			<div class="row mt-5 align-items-center justify-content-center">
+				<div class="col-md-8">
+					<div class="accordion faq-accordion" id="accordionExample">
+			          <div class="accordion-item border-0 mb-2">
+			            <h2 class="accordion-header">
+			              <button class="accordion-button shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+			                What is the one-time setup fee for the Prime VVIP Package?
+			              </button>
+			            </h2>
+			            <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+			              <div class="accordion-body">
+			                <p>The one-time setup fee for our Prime VVIP Package is $6000. </p>
+			              </div>
+			            </div>
+			          </div>
+			          <div class="accordion-item border-0 mb-2">
+			            <h2 class="accordion-header">
+			              <button class="accordion-button collapsed shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+			                What distinguishes the Prime VVIP Package from the VIP Package?
+			              </button>
+			            </h2>
+			            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+			              <div class="accordion-body">
+			                <p>The Prime VVIP Package not only includes all the features of the VIP Package but also provides additional benefits such as Web API, Forex CRM, Bonus plugin, Extended dealer, Multi-level IB, and Liquidity manager.</p>
+			              </div>
+			            </div>
+			          </div>
+			          <div class="accordion-item border-0">
+			            <h2 class="accordion-header">
+			              <button class="accordion-button collapsed shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+			                How can I upgrade to the Prime VVIP Package?
+			              </button>
+			            </h2>
+			            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+			              <div class="accordion-body">
+			                <p>To upgrade to the Prime VVIP Package, please get in touch with our dedicated support team. They will guide you through the process and help you make the most of this exclusive offering.</p>
+			              </div>
+			            </div>
+			          </div>
+			        </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 <?php include_once('./include/footer.php') ?>
