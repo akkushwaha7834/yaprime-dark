@@ -46,7 +46,7 @@
    <div class="container">
       <div class="row gy-4">
          <div class="col-md-6">
-            <div class="sidebar-sticky">
+            <div class="">
                <div class="">
                   <h4 class="text-primary">
                      Liquidity Solutions
