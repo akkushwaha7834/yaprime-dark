@@ -1318,9 +1318,44 @@ background: #302c26;
     left: 0;
     opacity: 0.5;
     z-index: 0;
-}   
-
-
+}  
+.team-listing{
+    padding: 80px 0;
+    background: #000;
+} 
+.team_member_image {
+    width: 40%;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.teams_card.two {
+    box-shadow: 10px 10px 40px 0 rgba(0,0,0,.1);
+    transition-duration: .5s;
+    cursor: pointer;
+}
+.teams_card {
+    padding: 60px 20px;
+    text-align: center;
+}
+.team_social a {
+    padding: 5px 10px;
+    background: #fac213;
+    color: #fac213;
+    border-radius: 5px;
+    border: 1px solid #fac213;
+}
+.team_social a i {
+    color: #fff;
+}
+.teams_card.two:hover {
+    box-shadow: 0px 0px 10px 0 #171717;
+}
+.teama_member_name {
+    color: #fff;
+}
+.team_member_des {
+    color: #fac214;
+}
 
 
 

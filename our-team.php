@@ -19,5 +19,130 @@
 		</div>
 	</div>
 </section>
-
+<section class="team-listing">
+	<div class="container">
+		<div class="row gy-1">
+			<div class="col-lg-3">
+				<div class="teams_card two">
+					<img src="images/teams.jpeg" class="team_member_image">
+					<h4 class="teama_member_name">
+						Jacob C. Huffman
+					</h4>
+					<p class="team_member_des">Designation</p>
+					<div class="team_social">
+						<a href="#"> <i class="fa-brands fa-facebook"></i></a>
+			            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+			            <a href="#"> <i class="fa-brands fa-linkedin"></i></a>
+			            <a href="#"> <i class="fa-brands fa-instagram"></i></a>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3">
+				<div class="teams_card two">
+					<img src="images/teams.jpeg" class="team_member_image">
+					<h4 class="teama_member_name">
+						Jacob C. Huffman
+					</h4>
+					<p class="team_member_des">Designation</p>
+					<div class="team_social">
+						<a href="#"> <i class="fa-brands fa-facebook"></i></a>
+			            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+			            <a href="#"> <i class="fa-brands fa-linkedin"></i></a>
+			            <a href="#"> <i class="fa-brands fa-instagram"></i></a>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3">
+				<div class="teams_card two">
+					<img src="images/teams.jpeg" class="team_member_image">
+					<h4 class="teama_member_name">
+						Jacob C. Huffman
+					</h4>
+					<p class="team_member_des">Designation</p>
+					<div class="team_social">
+						<a href="#"> <i class="fa-brands fa-facebook"></i></a>
+			            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+			            <a href="#"> <i class="fa-brands fa-linkedin"></i></a>
+			            <a href="#"> <i class="fa-brands fa-instagram"></i></a>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3">
+				<div class="teams_card two">
+					<img src="images/teams.jpeg" class="team_member_image">
+					<h4 class="teama_member_name">
+						Jacob C. Huffman
+					</h4>
+					<p class="team_member_des">Designation</p>
+					<div class="team_social">
+						<a href="#"> <i class="fa-brands fa-facebook"></i></a>
+			            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+			            <a href="#"> <i class="fa-brands fa-linkedin"></i></a>
+			            <a href="#"> <i class="fa-brands fa-instagram"></i></a>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3">
+				<div class="teams_card two">
+					<img src="images/teams.jpeg" class="team_member_image">
+					<h4 class="teama_member_name">
+						Jacob C. Huffman
+					</h4>
+					<p class="team_member_des">Designation</p>
+					<div class="team_social">
+						<a href="#"> <i class="fa-brands fa-facebook"></i></a>
+			            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+			            <a href="#"> <i class="fa-brands fa-linkedin"></i></a>
+			            <a href="#"> <i class="fa-brands fa-instagram"></i></a>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3">
+				<div class="teams_card two">
+					<img src="images/teams.jpeg" class="team_member_image">
+					<h4 class="teama_member_name">
+						Jacob C. Huffman
+					</h4>
+					<p class="team_member_des">Designation</p>
+					<div class="team_social">
+						<a href="#"> <i class="fa-brands fa-facebook"></i></a>
+			            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+			            <a href="#"> <i class="fa-brands fa-linkedin"></i></a>
+			            <a href="#"> <i class="fa-brands fa-instagram"></i></a>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3">
+				<div class="teams_card two">
+					<img src="images/teams.jpeg" class="team_member_image">
+					<h4 class="teama_member_name">
+						Jacob C. Huffman
+					</h4>
+					<p class="team_member_des">Designation</p>
+					<div class="team_social">
+						<a href="#"> <i class="fa-brands fa-facebook"></i></a>
+			            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+			            <a href="#"> <i class="fa-brands fa-linkedin"></i></a>
+			            <a href="#"> <i class="fa-brands fa-instagram"></i></a>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3">
+				<div class="teams_card two">
+					<img src="images/teams.jpeg" class="team_member_image">
+					<h4 class="teama_member_name">
+						Jacob C. Huffman
+					</h4>
+					<p class="team_member_des">Designation</p>
+					<div class="team_social">
+						<a href="#"> <i class="fa-brands fa-facebook"></i></a>
+			            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+			            <a href="#"> <i class="fa-brands fa-linkedin"></i></a>
+			            <a href="#"> <i class="fa-brands fa-instagram"></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 <?php include_once('./include/footer.php') ?>
