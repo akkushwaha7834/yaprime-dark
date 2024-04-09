@@ -1356,8 +1356,114 @@ background: #302c26;
 .team_member_des {
     color: #fac214;
 }
+/*Team End*/
 
-
+/*liquidity Started*/
+.liquidity_banner{
+    background: url(../images/liquidity.jpeg);
+    padding: 150px 0;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.liquidity_banner::after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background: radial-gradient(rgb(202 155 17), rgb(0 0 0));
+    left: 0;
+    opacity: 0.5;
+    z-index: 0;
+}  
+.liquidity_content{
+    background: #000;
+    padding: 80px 0;
+}
+.forex_liquidity{
+    padding: 80px 0;
+    background: #020202;
+}
+.qoute_wrapper_black .rate {
+    color: #fff;
+}
+.qoute_wrapper_black .spread {
+    color: #fff;
+    margin-top: 0.5rem;
+}
+.qoute_wrapper_yellow .spread {
+    color: #0D0A1E;
+    margin-top: 0.5rem;
+}
+.qoute_wrapper_yellow {
+    font-size: 14px;
+    color: #636A7E;
+    background: #fac213;
+    padding: 1rem;
+    border-radius: 1rem;
+    transition-duration: 0.2s;
+    box-shadow: 0rem 0rem 0rem rgba(13, 10, 30, 0);
+    cursor: pointer;
+}
+.qoute_wrapper_yellow:hover {
+    background: #FFFFFF;
+    transform: translateY(-5%);
+    box-shadow: 0rem 0.5rem 1rem rgba(13, 10, 30, 0.05);
+}
+.qoute_wrapper_yellow .symbol {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 0.5rem;
+    color: #0D0A1E;
+}
+.symbol img {
+    width: 25%;
+}
+.qoute_wrapper_yellow .rate {
+    color: #000;
+}
+.qoute_wrapper_black {
+    font-size: 14px;
+    color: #636A7E;
+    background: #000;
+    padding: 1rem;
+    border-radius: 1rem;
+    transition-duration: 0.2s;
+    box-shadow: 0rem 0rem 0rem rgba(13, 10, 30, 0);
+    cursor: pointer;
+}
+.qoute_wrapper_black:hover {
+    background: #FFFFFF;
+    transform: translateY(-5%);
+    box-shadow: 0rem 0.5rem 1rem rgba(13, 10, 30, 0.05);
+}
+.qoute_wrapper_black:hover .spread, .qoute_wrapper_black:hover .symbol, .qoute_wrapper_black:hover .rate, .qoute_wrapper_black:hover .spread span {
+    color: #000;
+}
+.qoute_wrapper_black .symbol {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 0.5rem;
+    color: #fff;
+}
+.counter_number::before {
+    content: "|";
+    color: #fac211;
+}
+.counter_number {
+    font-size: 24px;
+    line-height: 32px;
+    color: #fff;
+}
+.counter_content{
+    color: #fff;
+}
+/*Liquidity End*/
 
 
 
