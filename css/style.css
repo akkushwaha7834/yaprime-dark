@@ -1268,6 +1268,7 @@ background: #302c26;
 }   
 .institutional-clients{
     padding: 80px 0;
+    background: #000;
 }
 .institutional_clients_table td i.fa.fa-times{
     color: red;
@@ -1501,6 +1502,15 @@ background: #302c26;
 .image-box p{
     color: #fff;
 }
+.liquidity_pointers{
+    padding: 80px 0;
+    background: #000;
+}
+
+
+
+
+
 /*Liquidity End*/
 
 
