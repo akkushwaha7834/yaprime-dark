@@ -82,7 +82,7 @@
                                                     <a href="portfolio.php">Portfolio</a>
                                                  </li>
                                                  <li class="col-12 mb-2">
-                                                    <a href="our-teams.php">Meet Our Team</a>
+                                                    <a href="our-team.php">Meet Our Team</a>
                                                  </li>
                                               </ol>
                                            </div>
