@@ -291,7 +291,20 @@
 </section>
 <section class="liquidity_pointers">
     <div class="container">
-        <div class="row gy-4 align-items-center">
+    	<div class="row text-center">
+    		<div class="col-md-12">
+    			<h4 class="text-primary">
+    				Lorem Ipsum
+    			</h4>
+    			<h2 class="text-white">
+    				YaPrime: Inspiring Future Forex Brokers
+    			</h2>
+    			<p class="text-white">
+    				At YaPrime we understand the importance of seamless and efficient Metatrader 4/5 trading platform administration for your trading endeavors. With years of experience in the financial technology industry, we have established ourselves as a trusted partner for traders seeking reliable Metatrader administration support.
+    			</p>
+    		</div>
+    	</div>
+        <div class="row gy-4 mt-4 align-items-center">
             <div class="col-md-6">
                 <div class="row">
                     <div class="col-12">
