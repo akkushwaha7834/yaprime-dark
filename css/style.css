@@ -1,6 +1,6 @@
 *{margin: 0;padding: 0; }
 body{
-	background: #020202;
+	background: #262626;
     font-family: "Manrope", Sans-serif;
     overflow-x: hidden;
 }
@@ -137,7 +137,7 @@ body{
     flex-direction: column;
     align-items: flex-start;
     color: #fff;
-    background-color: #020202;
+    background-color: #262626;
 }
 .social-media-icon a {
     margin-right: 2%;
@@ -564,7 +564,7 @@ section.mission_visionn {
 /*Partners Start*/
 .partners-section{
     padding: 80px 0;
-    background: #020202;
+    background: #262626;
 }
 #partners .nav-link.active {
     border-radius: 12px 12px 0px 0px;
@@ -671,8 +671,7 @@ section.mission_visionn {
 	transform: translateY(-100px);
 }
 .trading_indices {
-/*    transform: translateY(-100px);*/
-	background: #020202;
+	background: #262626;
 }
 .image_box {
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
@@ -859,7 +858,7 @@ ul.check-list li span{
 }
 .mission-vission{
     padding: 80px 0;
-    background: #020202;
+    background: #262626;
     position: relative;
     background: url();
     background-size: cover;
@@ -1046,7 +1045,7 @@ background: #302c26;
 }
 .careers_values {
     padding: 80px 0;
-    background: #020202;
+    background: #262626;
 }
 .careers_image_box {
     border: 1px solid #fff3cd;
@@ -1384,7 +1383,7 @@ background: #302c26;
 }
 .forex_liquidity{
     padding: 80px 0;
-    background: #020202;
+    background: #262626;
 }
 .qoute_wrapper_black .rate {
     color: #fff;
@@ -1534,7 +1533,7 @@ background: #302c26;
     color: #000;
 }
 .liquidity_faqs .accordion-body{
-    background: #020202;
+    background: #262626;
     color: #fff;
 }
 .liquidity_faqs .accordion-button{
