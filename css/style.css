@@ -1571,7 +1571,9 @@ background: #302c26;
     opacity: 0.4;
     z-index: 0;
 }
-
+.crm_api_section{
+    padding: 80px 0;
+}
 /*broker setup banner End*/
 
 
