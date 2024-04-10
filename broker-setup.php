@@ -19,7 +19,34 @@
 		</div>
 	</div>
 </section>
+<section class="broker_setup_content">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-md-6">
+				<div class="liquidity-intro">
+					<h4 class="text-primary">Broker Setup</h4>
+					<h2 class="text-white">
+						Accelerate Your Forex Brokerage Success with YaPrime White Label Solutions
+					</h2>
+					<p class="text-white">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+					</p>
+					<p class="text-white">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+					</p>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<figure class="mb-0 border-anim mx-auto">
+	              <lottie-player src="images/lottie-json/banner.json" style="width: 250px; height: 250px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
+	              </lottie-player>
+	            </figure>
+			</div>
+		</div>
+	</div>
+</section>
 
+<!-- CRM Start -->
 <section class="crm_api_section">
 	<div class="container">
 		<div class="row text-center">
@@ -78,6 +105,64 @@
 		</div>
 	</div>
 </section>
+<section class="crm_api_section_two">
+	<div class="container">
+		<div class="row text-center">
+			<div class="col-md-12">
+				<h4 class="text-primary">
+					Benefits
+				</h4>
+				<h2 class="text-white">
+					Explore Our Powerful CRM and API Solutions
+				</h2>
+				<p class="text-white">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+				</p>
+			</div>
+		</div>
+		<div class="row mt-5 align-items-center">
+			<div class="col-md-6">
+				<figure class="mb-0 border-anime mx-auto">
+					<img src="images/CRM-animation.gif" class="img-fluid">
+				</figure>
+			</div>
+			<div class="col-md-6">
+				<h2 class="text-primary">Real-time Data Access</h2>
+				<p class="text-white">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+				</p>
+				<p class="text-white">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+				</p>
+				<p class="text-white">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+				</p>
+			</div>
+		</div>
+		<div class="row mt-5 text-center">
+			<div class="col-md-6">
+				<img src="images/CRM-animation.gif" class="img-fluid">
+				<h4 class="text-primary mt-3">
+					Efficient Partner Collaboration
+				</h4>
+				<p class="text-white">
+					Manage your introducers, affiliates, and IBs seamlessly. Our solutions facilitate efficient partner onboarding, tracking, and commission calculations. This ensures transparency and trust within your partner network.
+				</p>
+			</div>
+			<div class="col-md-6">
+				<img src="images/CRM-animation.gif" class="img-fluid">
+				<h4 class="text-primary mt-3">
+					Integrated Trading with API
+				</h4>
+				<p class="text-white">
+					Our API solutions provide secure access to trading platforms, enabling real-time order execution and portfolio management. Enjoy seamless integration with major trading platforms for a smoother trading experience.
+				</p>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- CRM End -->
+
 <section class="liquidity_faqs">
 	<div class="banner_content">
 		<div class="container">

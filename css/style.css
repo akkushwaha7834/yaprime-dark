@@ -1571,8 +1571,39 @@ background: #302c26;
     opacity: 0.4;
     z-index: 0;
 }
+.broker_setup_content{
+    background: #000;
+    padding: 80px 0;
+}
 .crm_api_section{
     padding: 80px 0;
+}
+.crm_api_section_two{
+    padding: 80px 0;
+    background: #000;
+}
+.border-anime {
+    position: relative;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 0;
+}
+.border-anime::before {
+    position: absolute;
+    content: '';
+    inset: 0;
+    border: 3px dashed #fac211;
+    border-right-color: #fff;
+    border-left-color: #fff;
+    border-radius: 50%;
+    animation: round 30s 0s infinite linear;
+    background: #262626;
+}
+.border-anime img{
+    z-index: 1;
 }
 /*broker setup banner End*/
 
