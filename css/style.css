@@ -1605,6 +1605,14 @@ background: #302c26;
 .border-anime img{
     z-index: 1;
 }
+.white-label{
+    padding: 80px 0;
+    background: #262626;
+}
+.admin-consultation{
+    padding: 80px 0;
+    background: #020202;
+}
 /*broker setup banner End*/
 
 

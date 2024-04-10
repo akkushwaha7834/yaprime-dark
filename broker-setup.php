@@ -46,6 +46,209 @@
 	</div>
 </section>
 
+<!-- White Label Start -->
+<section class="white-label">
+	<div class="container">
+		<div class="row text-center">
+			<div class="col-md-12">
+				<h4 class="text-primary">
+					White Label Solutions
+				</h4>
+				<h2 class="text-white">
+					Accelerate Your Forex Brokerage Success with YaPrime White Label Solutions
+				</h2>
+				<p class="text-white">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+				</p>
+			</div>
+		</div>
+		<div class="row align-items-center">
+			<div class="col-md-6">
+				<h2 class="text-primary">
+					Key Benefits of Our White Label Solutions
+				</h2>
+				<p class="text-white">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+				</p>
+				<p class="text-white">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+				</p>
+			</div>
+			<div class="col-md-6">
+				<img src="images/wls.gif" class="img-fluid" width="80%">
+			</div>
+		</div>
+		<div class="row gy-4  align-items-center">
+			<div class="col-md-12 text-center">
+				<h4 class="text-primary">
+					Benefits
+				</h4>
+				<h2 class="text-white">
+					Key Benefits of Our White Label Solutions
+				</h2>
+				<p class="text-white">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+				</p>
+			</div>
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="careers_image_box image-box">
+                            <div class="card-body">
+                                <div class="d-flex align-items-center gap-3 mb-3">
+                                    <span>
+                                        <img src="images/vvipimg7.svg" alt="" class="img-fluid">
+                                    </span>
+                                    <h5 class="card-title fw-semibold mb-0">Seamless Integration</h5>
+                                </div>
+                                <p class="card-text">
+                                	Our white-label forex trading platform solutions seamlessly integrate with your existing systems, ensuring a smooth transition and minimal disruption to your operations.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="careers_image_box image-box">
+                            <div class="card-body">
+                                <div class="d-flex align-items-center gap-3 mb-3">
+                                    <span>
+                                        <img src="images/vvipimg8.svg" alt="" class="img-fluid">
+                                    </span>
+                                    <h5 class="card-title fw-semibold mb-0">Customisation</h5>
+                                </div>
+                                <p class="card-text">Customise the platform to meet your needs and branding requirements, providing your clients with a unique and personalised trading experience.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <figure class="mb-0 border-anim mx-auto">
+	              <lottie-player src="images/lottie-json/banner.json" style="width: 300px; height: 300px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
+	              </lottie-player>
+	            </figure>
+            </div>
+            <div class="col-md-6">
+                <figure class="mb-0 border-anim mx-auto">
+	              <lottie-player src="images/lottie-json/banner.json" style="width: 300px; height: 300px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
+	              </lottie-player>
+	            </figure>
+            </div>
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="careers_image_box image-box">
+                            <div class="card-body">
+                                <div class="d-flex align-items-center gap-3 mb-3">
+                                    <span>
+                                        <img src="images/vvipimg9.svg" alt="" class="img-fluid">
+                                    </span>
+                                    <h5 class="card-title fw-semibold mb-0">Advanced Technology</h5>
+                                </div>
+                                <p class="card-text">
+                                	Benefit from our platform's advanced technology and robust infrastructure, known for its reliability and performance in the forex industry.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="careers_image_box image-box">
+                            <div class="card-body">
+                                <div class="d-flex align-items-center gap-3 mb-3">
+                                    <span>
+                                        <img src="images/vvipimg8.svg" alt="" class="img-fluid">
+                                    </span>
+                                    <h5 class="card-title fw-semibold mb-0">Cost-Efficiency</h5>
+                                </div>
+                                <p class="card-text">
+                                	Reduce development and maintenance costs by leveraging our white-label brokerage platform Solutions, allowing you to focus on growing your brokerage without the burden of extensive technical overhead.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+	</div>
+</section>
+<!-- White Label End -->
+
+<!-- Admin Consultation Start -->
+<section class="admin-consultation">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 text-center">
+				<h4 class="text-primary">
+					Admin Consultation
+				</h4>
+				<h2 class="text-white">
+					Simplify Your Forex Operations with Our Admin Consultation
+				</h2>
+				<p class="text-white">
+					At YaPrime, we understand that running a Forex brokerage involves more than just trading and client interactions. It requires seamless backend operations to ensure everything runs smoothly. That's where our Admin Consultation services come in.
+				</p>
+			</div>
+		</div>
+		<div class="row gy-4 mt-3">
+			<div class="col-md-12 text-center">
+				<h2 class="text-primary">Our Unique Features</h2>
+				<p class="text-white">Explore our exclusive and premium Forex Admin Consultation Services</p>
+			</div>
+            <div class="col-md-6">
+              <div class="image-box">
+                <div class="image_content_box mt-0 mb-3">
+                  <img src="images/primevipimage.png" class="img-fluid">
+                  <h4>
+                    Forex-Centric Expertise
+                  </h4>
+                </div>
+                <p class="mb-0">Our Admin Consultation services are built on years of experience in the Forex industry. We understand the unique challenges and intricacies of Forex brokerages, allowing us to provide solutions that align with your specific needs.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="image-box">
+                <div class="image_content_box mt-0 mb-3">
+                  <img src="images/primevipimage2.png" class="img-fluid">
+                  <h4>
+                    Full Backend Support
+                  </h4>
+                </div>
+                <p class="mb-0">We offer a one-stop solution for all your backend needs. From CRM integration to API management, data security, compliance, and scalability planning, we handle every aspect of your brokerage's backend operations, ensuring a hassle-free experience.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="image-box">
+                <div class="image_content_box mt-0 mb-3">
+                  <img src="images/primevipimage3.png" class="img-fluid">
+                  <h4>
+                    Data Security Assurance
+                  </h4>
+                </div>
+                <p class="mb-0">We prioritise the security of your data and your client's information. With our Admin Consultation services, you can rest assured that your data is stored, protected, and backed up securely, minimising the risk of data loss or security breaches.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="image-box">
+                <div class="image_content_box mt-0 mb-3">
+                  <img src="images/primevipimage4.png" class="img-fluid">
+                  <h4>
+                    Scalability and Growth
+                  </h4>
+                </div>
+                <p class="mb-0">As your brokerage grows, our services scale with you. We help plan for future growth, ensuring that your backend systems can handle increased volumes of data and transactions without disruptions, allowing you to expand your business confidently.
+                </p>
+              </div>
+            </div>
+        </div>
+	</div>
+</section>
+
+<!-- Admin Consultation End -->
+
+
 <!-- CRM Start -->
 <section class="crm_api_section">
 	<div class="container">
