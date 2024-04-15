@@ -12,7 +12,7 @@
 						YaPrime: Inspiring Future Forex Brokers
 					</h1>
 					<p class="text-white">
-						At YaPrime we understand the importance of seamless and efficient Metatrader 4/5 trading platform administration for your trading endeavors. With years of experience in the financial technology industry, we have established ourselves as a trusted partner for traders seeking reliable Metatrader administration support.
+						Explore our portfolio that showcases our dedication and expertise in the forex industry.
 					</p>
 				</div>
 			</div>

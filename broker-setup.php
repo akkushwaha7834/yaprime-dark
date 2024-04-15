@@ -189,10 +189,10 @@
 				</p>
 			</div>
 		</div>
-		<div class="row gy-4 mt-3">
+		<div class="row gy-4 mt-3 unique_features_row">
 			<div class="col-md-12 text-center">
 				<h2 class="text-primary">Our Unique Features</h2>
-				<p class="text-white">Explore our exclusive and premium Forex Admin Consultation Services</p>
+				<p class="text-white text-center">Explore our exclusive and premium Forex Admin Consultation Services</p>
 			</div>
             <div class="col-md-6">
               <div class="image-box">
@@ -263,7 +263,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="row align-items-center justify-content-center mt-4">
+		<div class="row align-items-center justify-content-center mt-4 unique_features_row">
 			<div class="col-md-6">
 	          <h4 class="text-primary">
 	            About CRM
@@ -323,7 +323,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="row mt-5 align-items-center">
+		<div class="row mt-5 align-items-center unique_features_row">
 			<div class="col-md-6">
 				<figure class="mb-0 border-anime mx-auto">
 					<img src="images/CRM-animation.gif" class="img-fluid">
