@@ -343,7 +343,7 @@ function myFunction() {
       responsiveClass: true,
       nav: false,
       autoplay: true,
-      autoplayTimeout:5000,
+      autoplayTimeout:3000,
       responsive: {
         0: {
           items: 1,
