@@ -1714,11 +1714,14 @@ background: #302c26;
     text-align: center;
 }
 .why_faq .accordion-body p{
-    color: #fff;
+    color: #000;
 }
 .why_faq .accordion-button {
-    background: #000;
+    background: #262626;
     color: #ffc109;
+}
+.why_faq .accordion-body{
+    background: #ffc008;
 }
 .why_testimonials{
     padding: 80px 0;
