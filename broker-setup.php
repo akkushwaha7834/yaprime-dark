@@ -91,7 +91,7 @@
 				</p>
 			</div>
             <div class="col-md-6">
-                <div class="row">
+                <div class="row gy-4">
                     <div class="col-12">
                         <div class="careers_image_box image-box">
                             <div class="card-body">
@@ -135,7 +135,7 @@
 	            </figure>
             </div>
             <div class="col-md-6">
-                <div class="row">
+                <div class="row gy-4">
                     <div class="col-12">
                         <div class="careers_image_box image-box">
                             <div class="card-body">
