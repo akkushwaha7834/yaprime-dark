@@ -92,7 +92,7 @@
 			</div>
             <div class="col-md-6">
                 <div class="row gy-4">
-                    <div class="col-12">
+                    <div class="col-6">
                         <div class="careers_image_box image-box">
                             <div class="card-body">
                                 <div class="d-flex align-items-center gap-3 mb-3">
@@ -107,8 +107,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12">
-                        <div class="careers_image_box image-box">
+                    <div class="col-6">
+                        <div class="careers_image_box image-box mt-4">
                             <div class="card-body">
                                 <div class="d-flex align-items-center gap-3 mb-3">
                                     <span>
@@ -120,23 +120,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <figure class="mb-0 border-anim mx-auto">
-	              <lottie-player src="images/lottie-json/banner.json" style="width: 300px; height: 300px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
-	              </lottie-player>
-	            </figure>
-            </div>
-            <div class="col-md-6">
-                <figure class="mb-0 border-anim mx-auto">
-	              <lottie-player src="images/lottie-json/banner.json" style="width: 300px; height: 300px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
-	              </lottie-player>
-	            </figure>
-            </div>
-            <div class="col-md-6">
-                <div class="row gy-4">
-                    <div class="col-12">
+                    <div class="col-6">
                         <div class="careers_image_box image-box">
                             <div class="card-body">
                                 <div class="d-flex align-items-center gap-3 mb-3">
@@ -151,8 +135,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12">
-                        <div class="careers_image_box image-box">
+                    <div class="col-6">
+                        <div class="careers_image_box image-box mt-4">
                             <div class="card-body">
                                 <div class="d-flex align-items-center gap-3 mb-3">
                                     <span>
@@ -168,6 +152,52 @@
                     </div>
                 </div>
             </div>
+            <div class="col-md-6">
+                <figure class="mb-0 border-anim mx-auto">
+	              <lottie-player src="images/lottie-json/banner.json" style="width: 300px; height: 300px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
+	              </lottie-player>
+	            </figure>
+            </div>
+            <!-- <div class="col-md-6">
+                <figure class="mb-0 border-anim mx-auto">
+	              <lottie-player src="images/lottie-json/banner.json" style="width: 300px; height: 300px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
+	              </lottie-player>
+	            </figure>
+            </div> -->
+            <!-- <div class="col-md-6">
+                <div class="row gy-4">
+                    <div class="col-6">
+                        <div class="careers_image_box image-box">
+                            <div class="card-body">
+                                <div class="d-flex align-items-center gap-3 mb-3">
+                                    <span>
+                                        <img src="images/vvipimg9.svg" alt="" class="img-fluid">
+                                    </span>
+                                    <h5 class="card-title fw-semibold mb-0">Advanced Technology</h5>
+                                </div>
+                                <p class="card-text">
+                                	Benefit from our platform's advanced technology and robust infrastructure, known for its reliability and performance in the forex industry.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="careers_image_box image-box">
+                            <div class="card-body">
+                                <div class="d-flex align-items-center gap-3 mb-3">
+                                    <span>
+                                        <img src="images/vvipimg8.svg" alt="" class="img-fluid">
+                                    </span>
+                                    <h5 class="card-title fw-semibold mb-0">Cost-Efficiency</h5>
+                                </div>
+                                <p class="card-text">
+                                	Reduce development and maintenance costs by leveraging our white-label brokerage platform Solutions, allowing you to focus on growing your brokerage without the burden of extensive technical overhead.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
         </div>
 	</div>
 </section>
