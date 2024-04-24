@@ -20,10 +20,102 @@
 	</div>
 </section>
 
+<section class="institutional-clients-content">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h4 class="text-primary">What are Institutional Clients</h4>
+                <h2 class="text-white">Lorem Ipsum</h2>
+                <p class="text-white">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                </p>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-md-6">
+                <div class="institutional-clients-left">
+                    <figure class="mb-0 mx-auto">
+                      <lottie-player src="images/lottie-json/clients.json"  background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
+                      </lottie-player>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="institutional-clients-right">
+                    <h4 class="text-primary">Benefits</h4>
+                    <h2 class="text-white">Lorem Ipsum</h2>
+                    <p class="text-white">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                    </p>
+                    <div class="institutional-clients-pointer">
+                        <ul class="text-white pointer_ul">
+                            <li>
+                                <span>
+                                    <i class="fa fa-check" aria-hidden="true"></i>
+                                </span>
+                                Lorem ipsum dolor sit amet
+                            </li>
+                            <li>
+                                <span>
+                                    <i class="fa fa-check" aria-hidden="true"></i>
+                                </span>
+                                Lorem ipsum dolor sit amet
+                            </li>
+                            <li>
+                                <span>
+                                    <i class="fa fa-check" aria-hidden="true"></i>
+                                </span>
+                                Lorem ipsum dolor sit amet
+                            </li>
+                            <li>
+                                <span>
+                                    <i class="fa fa-check" aria-hidden="true"></i>
+                                </span>
+                                Lorem ipsum dolor sit amet
+                            </li>
+                            <li>
+                                <span>
+                                    <i class="fa fa-check" aria-hidden="true"></i>
+                                </span>
+                                Lorem ipsum dolor sit amet
+                            </li>
+                            <li>
+                                <span>
+                                    <i class="fa fa-check" aria-hidden="true"></i>
+                                </span>
+                                Lorem ipsum dolor sit amet
+                            </li>
+                            <li>
+                                <span>
+                                    <i class="fa fa-check" aria-hidden="true"></i>
+                                </span>
+                                Lorem ipsum dolor sit amet
+                            </li>
+                            <li>
+                                <span>
+                                    <i class="fa fa-check" aria-hidden="true"></i>
+                                </span>
+                                Lorem ipsum dolor sit amet
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="institutional-clients">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
+            <div class="col-md-12 text-center">
+                <h4 class="text-primary">What are Institutional Clients</h4>
+                <h2 class="text-white">Lorem Ipsum</h2>
+                <p class="text-white">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                </p>
+            </div>
+			<div class="col-md-12 mt-3">
 				<div class="item">
                     <div class="item">
                         <table class="table institutional_clients_table">
