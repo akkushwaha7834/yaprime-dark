@@ -337,7 +337,7 @@
             </div>
             <div class="col-md-6">
                 <figure class="mb-0 border-anim mx-auto">
-	              <lottie-player src="images/lottie-json/banner.json" style="width: 300px; height: 300px" background="transparent" speed="1" direction="1" mode="normal" loop=""autoplay="">
+	              <lottie-player src="images/lottie-json/benefits.json" style="width: 300px; height: 300px" background="transparent" speed="1" direction="1" mode="normal" loop=""autoplay="">
 	              </lottie-player>
 	            </figure>
             </div>

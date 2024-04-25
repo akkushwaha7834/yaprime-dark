@@ -655,7 +655,25 @@ section.mission_visionn {
     padding: 80px 0;
     background: #000;
 }
-
+.tab-para{
+    text-align: left;
+}
+.nav-link:hover {
+    color: #fff;
+}
+.nav-pills .nav-link.active{
+    background: #302c26;
+    padding: 30px 20px;
+    border-width: 0px 0px 0px 4px;
+    border-color: #ffc109;
+    border-style: groove;
+}
+.nav-pills .nav-link{
+    border-width: 0px 0px 0px 4px;
+    border-color: #939393;
+    border-style: inset;
+    padding: 30px 20px;
+}
 /*Broker Setup End*/
 
 
