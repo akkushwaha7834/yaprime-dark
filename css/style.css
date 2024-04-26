@@ -681,6 +681,28 @@ section.mission_visionn {
     border-color: #ffc109;
     border-style: groove;
 }
+.unique-feature-pills .nav-link.active{
+    background: #ffc109;
+    color: #000;
+}
+.unique-feature-pills .nav-link:hover{
+    background: #ffc109;
+    color: #000!important;
+}
+.unique-feature-pills .nav-link{
+    background: #302C26;
+}
+.unique-feature-pills .tab-content p{
+    color: #fff!important;
+}
+.unique-feature-pills .nav-link:hover {
+    color: #fff;
+}
+.unique-pills {
+    background: radial-gradient(rgb(68 68 68 / 39%), rgb(0 0 0));
+    padding: 30px;
+    border-radius: 20px;
+}
 /*Broker Setup End*/
 
 
