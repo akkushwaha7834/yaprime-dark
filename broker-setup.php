@@ -36,8 +36,8 @@
             </div>
          </div>
          <div class="col-md-6">
-            <figure class="mb-0 border-anim mx-auto">
-               <lottie-player src="images/lottie-json/banner.json" style="width: 250px; height: 250px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
+            <figure class="mb-0 d-flex justify-content-center mx-auto">
+               <lottie-player src="images/lottie-json/setup.json" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
                </lottie-player>
             </figure>
          </div>
@@ -89,7 +89,7 @@
             </p>
          </div>
       </div>
-      <div class="row mt-5 align-items-center">
+      <div class="row mt-5 align-items-center white_lable_tabs">
          <div class="col-md-6">
             <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                <button class="nav-link active mb-3" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">
@@ -189,52 +189,125 @@
             <h2 class="text-primary">Our Unique Features</h2>
             <p class="text-white text-center">Explore our exclusive and premium Forex Admin Consultation Services</p>
          </div>
-         <div class="col-md-6">
-            <div class="image-box">
-               <div class="image_content_box mt-0 mb-3">
-                  <img src="images/primevipimage.png" class="img-fluid">
-                  <h4>
-                     Forex-Centric Expertise
-                  </h4>
+      </div>
+      <div class="row mt-5">
+         <div class="col-md-12">
+            <ul class="nav nav-pills mb-3 justify-content-center" id="pills-tab" role="tablist">
+               <li class="nav-item" role="presentation">
+                  <button class="nav-link active" id="pills-forex-tab" data-bs-toggle="pill" data-bs-target="#pills-forex" type="button" role="tab" aria-controls="pills-forex" aria-selected="true">
+                  Forex-Centric Expertise
+                  </button>
+               </li>
+               <li class="nav-item" role="presentation">
+                  <button class="nav-link" id="pills-backend-tab" data-bs-toggle="pill" data-bs-target="#pills-backend" type="button" role="tab" aria-controls="pills-backend" aria-selected="false">
+                  Full Backend Support
+                  </button>
+               </li>
+               <li class="nav-item" role="presentation">
+                  <button class="nav-link" id="pills-data-tab" data-bs-toggle="pill" data-bs-target="#pills-data" type="button" role="tab" aria-controls="pills-data" aria-selected="false">
+                  Data Security Assurance
+                  </button>
+               </li>
+               <li class="nav-item" role="presentation">
+                  <button class="nav-link" id="pills-growth-tab" data-bs-toggle="pill" data-bs-target="#pills-growth" type="button" role="tab" aria-controls="pills-growth" aria-selected="false">
+                  Scalability and Growth
+                  </button>
+               </li>
+            </ul>
+            <div class="tab-content" id="pills-tabContent">
+               <div class="tab-pane fade show active" id="pills-forex" role="tabpanel" aria-labelledby="pills-forex-tab">
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-md-6">
+                           <div class="">
+                              <div class="image_content_box mt-0 mb-3">
+                                 <img src="images/primevipimage.png" class="img-fluid">
+                                 <h4>
+                                    Forex-Centric Expertise
+                                 </h4>
+                              </div>
+                              <p class="mb-0">Our Admin Consultation services are built on years of experience in the Forex industry. We understand the unique challenges and intricacies of Forex brokerages, allowing us to provide solutions that align with your specific needs.
+                              </p>
+                           </div>
+                        </div>
+                        <div class="col-md-6">
+                           <figure class="mb-0 mx-auto">
+                              <!-- <lottie-player src="images/lottie-json/forex.json"  background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player> -->
+                              <img src="images/lottie-json/uZonwdt2TI.gif">
+                           </figure>
+                        </div>
+                     </div>
+                  </div>
                </div>
-               <p class="mb-0">Our Admin Consultation services are built on years of experience in the Forex industry. We understand the unique challenges and intricacies of Forex brokerages, allowing us to provide solutions that align with your specific needs.
-               </p>
-            </div>
-         </div>
-         <div class="col-md-6">
-            <div class="image-box">
-               <div class="image_content_box mt-0 mb-3">
-                  <img src="images/primevipimage2.png" class="img-fluid">
-                  <h4>
-                     Full Backend Support
-                  </h4>
+               <div class="tab-pane fade" id="pills-backend" role="tabpanel" aria-labelledby="pills-backend-tab">
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-md-6">
+                           <div class="image-box">
+				               <div class="image_content_box mt-0 mb-3">
+				                  <img src="images/primevipimage2.png" class="img-fluid">
+				                  <h4>
+				                     Full Backend Support
+				                  </h4>
+				               </div>
+				               <p class="mb-0">We offer a one-stop solution for all your backend needs. From CRM integration to API management, data security, compliance, and scalability planning, we handle every aspect of your brokerage's backend operations, ensuring a hassle-free experience.
+				               </p>
+				            </div>
+                        </div>
+                        <div class="col-md-6">
+                           <figure class="mb-0 mx-auto">
+                              <lottie-player src="images/lottie-json/forex.json" style="width: 100px; height: 100px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+                           </figure>
+                        </div>
+                     </div>
+                  </div>
                </div>
-               <p class="mb-0">We offer a one-stop solution for all your backend needs. From CRM integration to API management, data security, compliance, and scalability planning, we handle every aspect of your brokerage's backend operations, ensuring a hassle-free experience.
-               </p>
-            </div>
-         </div>
-         <div class="col-md-6">
-            <div class="image-box">
-               <div class="image_content_box mt-0 mb-3">
-                  <img src="images/primevipimage3.png" class="img-fluid">
-                  <h4>
-                     Data Security Assurance
-                  </h4>
+               <div class="tab-pane fade" id="pills-data" role="tabpanel" aria-labelledby="pills-data-tab">
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-md-6">
+                           <div class="image-box">
+				               <div class="image_content_box mt-0 mb-3">
+				                  <img src="images/primevipimage3.png" class="img-fluid">
+				                  <h4>
+				                     Data Security Assurance
+				                  </h4>
+				               </div>
+				               <p class="mb-0">We prioritise the security of your data and your client's information. With our Admin Consultation services, you can rest assured that your data is stored, protected, and backed up securely, minimising the risk of data loss or security breaches.
+				               </p>
+				            </div>
+                        </div>
+                        <div class="col-md-6">
+                           <figure class="mb-0 mx-auto">
+                              <lottie-player src="images/lottie-json/forex.json" style="width: 100px; height: 100px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+                           </figure>
+                        </div>
+                     </div>
+                  </div>
                </div>
-               <p class="mb-0">We prioritise the security of your data and your client's information. With our Admin Consultation services, you can rest assured that your data is stored, protected, and backed up securely, minimising the risk of data loss or security breaches.
-               </p>
-            </div>
-         </div>
-         <div class="col-md-6">
-            <div class="image-box">
-               <div class="image_content_box mt-0 mb-3">
-                  <img src="images/primevipimage4.png" class="img-fluid">
-                  <h4>
-                     Scalability and Growth
-                  </h4>
+               <div class="tab-pane fade" id="pills-growth" role="tabpanel" aria-labelledby="pills-growth-tab">
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-md-6">
+                           <div class="image-box">
+				               <div class="image_content_box mt-0 mb-3">
+				                  <img src="images/primevipimage4.png" class="img-fluid">
+				                  <h4>
+				                     Scalability and Growth
+				                  </h4>
+				               </div>
+				               <p class="mb-0">As your brokerage grows, our services scale with you. We help plan for future growth, ensuring that your backend systems can handle increased volumes of data and transactions without disruptions, allowing you to expand your business confidently.
+				               </p>
+				            </div>
+                        </div>
+                        <div class="col-md-6">
+                           <figure class="mb-0 mx-auto">
+                              <lottie-player src="images/lottie-json/forex.json" style="width: 100px; height: 100px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+                           </figure>
+                        </div>
+                     </div>
+                  </div>
                </div>
-               <p class="mb-0">As your brokerage grows, our services scale with you. We help plan for future growth, ensuring that your backend systems can handle increased volumes of data and transactions without disruptions, allowing you to expand your business confidently.
-               </p>
             </div>
          </div>
       </div>
@@ -317,11 +390,6 @@
       </div>
       <div class="row mt-5 align-items-center unique_features_row">
          <div class="col-md-6">
-            <figure class="mb-0 border-anime mx-auto">
-               <img src="images/CRM-animation.gif" class="img-fluid">
-            </figure>
-         </div>
-         <div class="col-md-6">
             <h2 class="text-primary">Real-time Data Access</h2>
             <p class="text-white">
                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -332,6 +400,11 @@
             <p class="text-white">
                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
             </p>
+         </div>
+         <div class="col-md-6">
+            <figure class="mb-0 mx-auto">
+               <lottie-player src="images/lottie-json/time.json" style="width: 100%; height: 100%" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+            </figure>
          </div>
       </div>
       <div class="row mt-5 text-center">

@@ -655,24 +655,31 @@ section.mission_visionn {
     padding: 80px 0;
     background: #000;
 }
-.tab-para{
+.white_lable_tabs .tab-para{
     text-align: left;
 }
-.nav-link:hover {
+.white_lable_tabs .nav-link:hover {
     color: #fff;
 }
-.nav-pills .nav-link.active{
+.white_lable_tabs .nav-pills .nav-link.active{
     background: #302c26;
     padding: 30px 20px;
     border-width: 0px 0px 0px 4px;
     border-color: #ffc109;
     border-style: groove;
 }
-.nav-pills .nav-link{
+.white_lable_tabs .nav-pills .nav-link{
     border-width: 0px 0px 0px 4px;
     border-color: #939393;
     border-style: inset;
     padding: 30px 20px;
+}
+.white_lable_tabs .nav-pills .nav-link:hover {
+    background: #302c26;
+    padding: 30px 20px;
+    border-width: 0px 0px 0px 4px;
+    border-color: #ffc109;
+    border-style: groove;
 }
 /*Broker Setup End*/
 
@@ -1608,7 +1615,7 @@ background: #302c26;
 }
 .liquidity_faqs{
     padding: 80px 0;
-    background: url(../images/liquidity_faq.webp);
+    background: url(https://wphix.com/wp/finbest/wp-content/themes/finbest/assets/img/faq/bg-shape.png);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -1680,8 +1687,8 @@ background: #302c26;
     padding: 80px 0;
 }
 .crm_api_section_two{
-    padding: 80px 0;
-    background: #000;
+    padding: 0px 0 80px;
+/*    background: #000;*/
 }
 .border-anime {
     position: relative;
