@@ -140,7 +140,7 @@
             <div class="tab-content" id="v-pills-tabContent">
                <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
                   <figure class="mb-0 mx-auto">
-                     <lottie-player src="images/lottie-json/intergation.json" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
+                     <lottie-player src="images/lottie-json/server.json" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
                      </lottie-player>
                   </figure>
                </div>
@@ -152,7 +152,7 @@
                </div>
                <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
                   <figure class="mb-0 mx-auto">
-                     <lottie-player src="images/lottie-json/technology.json" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
+                     <lottie-player src="images/lottie-json/stock-market-chart.json" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
                      </lottie-player>
                   </figure>
                </div>
