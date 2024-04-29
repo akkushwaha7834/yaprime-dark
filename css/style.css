@@ -702,6 +702,7 @@ section.mission_visionn {
     background: radial-gradient(rgb(68 68 68 / 39%), rgb(0 0 0));
     padding: 30px;
     border-radius: 20px;
+    height: 100%;
 }
 /*Broker Setup End*/
 
@@ -1696,7 +1697,7 @@ background: #302c26;
     height: 100%;
     width: 100%;
     top: 0;
-    background: radial-gradient(rgb(5 5 5), rgb(255 193 9));
+    background: radial-gradient(rgb(0 0 0), rgb(65 65 65));
     left: 0;
     opacity: 0.4;
     z-index: 0;

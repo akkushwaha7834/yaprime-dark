@@ -376,30 +376,26 @@
 </section>
 <section class="crm_api_section_two">
    <div class="container">
-      <div class="row text-center">
-         <div class="col-md-12">
+      <div class="row align-items-center">
+         <div class="col-md-6">
             <h4 class="text-primary">
                Benefits
             </h4>
             <h2 class="text-white">
                Explore Our Powerful CRM and API Solutions
             </h2>
+         </div>
+         <div class="col-md-6">
             <p class="text-white">
                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
             </p>
          </div>
       </div>
-      <div class="row mt-5 align-items-center unique_features_row">
-         <div class="col-md-6">
+      <!-- <div class="row mt-5 align-items-center unique_features_row unique-pills">
+     	<div class="col-md-6">
             <h2 class="text-primary">Real-time Data Access</h2>
             <p class="text-white">
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-            </p>
-            <p class="text-white">
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-            </p>
-            <p class="text-white">
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+               Access up-to-the-minute data on client activity, trading trends, and partner performance. Stay informed and make data-driven decisions to optimise your brokerage's operations and profitability.
             </p>
          </div>
          <div class="col-md-6">
@@ -407,27 +403,58 @@
                <lottie-player src="images/lottie-json/time.json" style="width: 100%; height: 100%" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
             </figure>
          </div>
-      </div>
-      <div class="row mt-5 text-center">
-         <div class="col-md-6">
-            <img src="images/CRM-animation.gif" class="img-fluid">
-            <h4 class="text-primary mt-3">
-               Efficient Partner Collaboration
-            </h4>
-            <p class="text-white">
-               Manage your introducers, affiliates, and IBs seamlessly. Our solutions facilitate efficient partner onboarding, tracking, and commission calculations. This ensures transparency and trust within your partner network.
-            </p>
+      </div> -->
+      <div class="row gy-4 mt-4">
+      	<div class="col-md-4">
+            <div class="unique-pills">
+            <img src="images/real-time.png" class="img-fluid" width="150px">
+            	<h4 class="text-primary mt-4">Real-time Data Access</h4>
+	            <p class="text-white">
+	               Access up-to-the-minute data on client activity, trading trends, and partner performance. Stay informed and make data-driven decisions to optimise your brokerage's operations and profitability.
+	            </p>
+            </div>
          </div>
-         <div class="col-md-6">
-            <img src="images/CRM-animation.gif" class="img-fluid">
-            <h4 class="text-primary mt-3">
+      	<div class="col-md-4">
+      		<div class="unique-pills">
+      			<img src="images/partner-collaboration.png" class="img-fluid" width="150px">
+      			<h4 class="text-primary mt-4">Efficient Partner Collaboration</h4>
+	            <p class="text-white">
+	               Manage your introducers, affiliates, and IBs seamlessly. Our solutions facilitate efficient partner onboarding, tracking, and commission calculations. This ensures transparency and trust within your partner network.
+	            </p>
+      		</div>
+      	</div>
+      	<div class="col-md-4">
+      		<div class="unique-pills">
+      			<img src="images/api.png" class="img-fluid" width="150px">
+      			<h4 class="text-primary mt-4">
+	               Integrated Trading with API
+	            </h4>
+	            <p class="text-white">
+	               Our API solutions provide secure access to trading platforms, enabling real-time order execution and portfolio management. Enjoy seamless integration with major trading platforms for a smoother trading experience.
+	            </p>
+      		</div>
+      	</div>
+      </div>
+      	<!-- <div class="col-md-6">
+      		<figure class="mb-0 mx-auto">
+               <lottie-player src="images/lottie-json/partner-collaboration.json" style="width: 100%; height: 100%" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+            </figure>
+      	</div> -->
+      <!-- <div class="row mt-5 align-items-center unique-pills">
+      	<div class="col-md-6">
+      		<h2 class="text-primary mt-3">
                Integrated Trading with API
-            </h4>
+            </h2>
             <p class="text-white">
                Our API solutions provide secure access to trading platforms, enabling real-time order execution and portfolio management. Enjoy seamless integration with major trading platforms for a smoother trading experience.
             </p>
-         </div>
-      </div>
+      	</div>
+      	<div class="col-md-6">
+      		<figure class="mb-0 mx-auto">
+               <lottie-player src="images/lottie-json/api-interface.json" style="width: 100%; height: 100%" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+            </figure>
+      	</div>
+      </div> -->
    </div>
 </section>
 <!-- CRM End -->
