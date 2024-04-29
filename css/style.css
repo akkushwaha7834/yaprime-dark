@@ -1612,6 +1612,13 @@ background: #302c26;
     opacity: 0.5;
     z-index: 0;
 }
+.fast_broker{
+    display: flex;
+    justify-content: center;
+}
+.liquidity_content .border-anim::before{
+    background: transparent;
+}
 .image-box {
     padding: 1rem;
     border: 1px solid #fff3cd;

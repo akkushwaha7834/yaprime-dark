@@ -361,12 +361,6 @@
                </div>
                <p>By understanding your clients' trading behaviours, you can design your services to meet their specific needs. Personalisation leads to higher client satisfaction.</p>
             </div>
-            <div class="row liquidity_row_two">
-               <div class="col-md-6">
-                  <!-- <a class="unique_anchor_one" data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started </a> -->
-                  <button type="button" class="btn btn-warning mt-4" data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started</button>
-               </div>
-            </div>
          </div>
          <div class="col-md-6">
             <lottie-player src="images/lottie-json/careers.json" style="width: 100%; height: 100%" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
@@ -391,19 +385,6 @@
             </p>
          </div>
       </div>
-      <!-- <div class="row mt-5 align-items-center unique_features_row unique-pills">
-     	<div class="col-md-6">
-            <h2 class="text-primary">Real-time Data Access</h2>
-            <p class="text-white">
-               Access up-to-the-minute data on client activity, trading trends, and partner performance. Stay informed and make data-driven decisions to optimise your brokerage's operations and profitability.
-            </p>
-         </div>
-         <div class="col-md-6">
-            <figure class="mb-0 mx-auto">
-               <lottie-player src="images/lottie-json/time.json" style="width: 100%; height: 100%" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
-            </figure>
-         </div>
-      </div> -->
       <div class="row gy-4 mt-4">
       	<div class="col-md-4">
             <div class="unique-pills">
@@ -435,26 +416,6 @@
       		</div>
       	</div>
       </div>
-      	<!-- <div class="col-md-6">
-      		<figure class="mb-0 mx-auto">
-               <lottie-player src="images/lottie-json/partner-collaboration.json" style="width: 100%; height: 100%" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
-            </figure>
-      	</div> -->
-      <!-- <div class="row mt-5 align-items-center unique-pills">
-      	<div class="col-md-6">
-      		<h2 class="text-primary mt-3">
-               Integrated Trading with API
-            </h2>
-            <p class="text-white">
-               Our API solutions provide secure access to trading platforms, enabling real-time order execution and portfolio management. Enjoy seamless integration with major trading platforms for a smoother trading experience.
-            </p>
-      	</div>
-      	<div class="col-md-6">
-      		<figure class="mb-0 mx-auto">
-               <lottie-player src="images/lottie-json/api-interface.json" style="width: 100%; height: 100%" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
-            </figure>
-      	</div>
-      </div> -->
    </div>
 </section>
 <!-- CRM End -->

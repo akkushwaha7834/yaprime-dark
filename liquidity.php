@@ -35,7 +35,7 @@
 			</div>
 			<div class="col-md-6">
 				<figure class="mb-0 border-anim mx-auto">
-	              <lottie-player src="images/lottie-json/banner.json" style="width: 250px; height: 250px" background="transparent" speed="1" direction="1" mode="normal" loop=""autoplay="">
+	              <lottie-player src="images/lottie-json/banner.json" style="width: 300px; height: 300px" background="transparent" speed="1" direction="1" mode="normal" loop=""autoplay="">
 	              </lottie-player>
 	            </figure>
 			</div>
@@ -333,22 +333,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <figure class="mb-0 border-anim mx-auto">
-	              <lottie-player src="images/lottie-json/benefits.json" style="width: 300px; height: 300px" background="transparent" speed="1" direction="1" mode="normal" loop=""autoplay="">
-	              </lottie-player>
-	            </figure>
-            </div>
-            <div class="col-md-6">
-                <figure class="mb-0 border-anim mx-auto">
-	              <lottie-player src="images/lottie-json/banner.json" style="width: 300px; height: 300px" background="transparent" speed="1" direction="1" mode="normal" loop=""autoplay="">
-	              </lottie-player>
-	            </figure>
-            </div>
-            <div class="col-md-6">
-                <div class="row gy-4">
                     <div class="col-12">
                         <div class="careers_image_box image-box">
                             <div class="card-body">
@@ -376,6 +360,12 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="col-md-6">
+                <figure class="fast_broker">
+	              <lottie-player src="images/lottie-json/benefits.json" style="width: 70%; height: 40%" background="transparent" speed="1" direction="1" mode="normal" loop=""autoplay="">
+	              </lottie-player>
+	            </figure>
             </div>
         </div>
     </div>
