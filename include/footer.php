@@ -1,7 +1,7 @@
 <section class="footer-section px-0">
   <div class="container">
     <div class="row">
-      <div class="col-md-8">
+      <div class="col-md-4">
         <img src="images/logo.webp" class='footer-logo' />
 
         <p>YaPrime is a group of expert broker consultants here to guide you and help you in setting up your
@@ -17,6 +17,70 @@
           <a href="#"> <i class="fa-brands fa-youtube"></i></a>
         </div>
       </div>
+      <div class="col-md-2">
+        <div class="col-width">
+          <h6>About company</h6>
+          <ul>
+            <li>
+              <a href="about-us.php">
+                About us
+              </a>
+            </li>
+            <li>
+              <a href="why-choose-us.php">
+                Why choose us
+              </a>
+            </li>
+            <li>
+              <a href="blog">
+                Our Blog
+              </a>
+            </li>
+            <li>
+              <a href="careers.php">
+                Careers
+              </a>
+            </li>
+            <li>
+              <a href="our-teams.php">
+                Meet our Team
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="col-width">
+          <h6>Useful Link</h6>
+          <ul>
+            <li>
+              <a href="about-us.php">
+                Broker Setup
+              </a>
+            </li>
+            <li>
+              <a href="why-choose-us.php">
+                Liquidity Solutions
+              </a>
+            </li>
+            <li>
+              <a href="blog">
+                Institutional Clients
+              </a>
+            </li>
+            <li>
+              <a href="careers.php">
+                Metatrader Support
+              </a>
+            </li>
+            <li>
+              <a href="portfolio.php">
+                Portfolio
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
       <div class="col-md-4">
         <h4 class="text-primary">Connect with us</h4>
         <div class="address">
@@ -30,147 +94,6 @@
           <p> <i class="fa-solid fa-envelope"></i> support@yaprime.com</p>
         </div>
       </div>
-
-    </div>
-    <hr class="footer_hr" />
-
-    <div class="row row-cols-lg-5 row-cols-sm-2">
-      <div class="col-width">
-        <h6>About company</h6>
-        <ul>
-          <li>
-            <a href="about-us.php">
-              About us
-            </a>
-          </li>
-          <li>
-            <a href="why-choose-us.php">
-              Why choose us
-            </a>
-          </li>
-          <li>
-            <a href="blog">
-              Our Blog
-            </a>
-          </li>
-          <li>
-            <a href="careers.php">
-              Careers
-            </a>
-          </li>
-          <li>
-            <a href="portfolio.php">
-              Portfolio
-            </a>
-          </li>
-          <li>
-            <a href="our-teams.php">
-              Meet our Team
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-width">
-        <h6>Broker Solution</h6>
-        <ul>
-          <li>
-            <a href="white-label.php">
-              White Label
-            </a>
-          </li>
-          <li>
-            <a href="admin-consultation.php">
-              Admin Consultation
-            </a>
-          </li>
-          <li>
-            <a href="liquidity-solution.php">
-              Liquidity Solution
-            </a>
-          </li>
-          <li>
-            <a href="crm-api.php">
-              CRM & API
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-width">
-        <h6>Services</h6>
-        <ul>
-          <li>
-            <a href="ui-ux.php">
-              UI/UX Design
-            </a>
-          </li>
-          <li>
-            <a href="web-development.php">
-              Web Development
-            </a>
-          </li>
-          <li>
-            <a href="app-development.php">
-              App Development
-            </a>
-          </li>
-          <li>
-            <a href="graphic-design.php">
-              Graphic Design
-            </a>
-          </li>
-          <li>
-            <a href="digital-marketing.php">
-              Digital Marketing
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-width">
-        <h6>Research & Advisory</h6>
-        <ul>
-          <li>
-            <a href="ya-wealth.php">
-              Ya Wealth
-            </a>
-          </li>
-          <li>
-            <a href="free-service.php">
-              Free Services
-            </a>
-          </li>
-          <li>
-            <a href="personal-advisory.php">
-              Personal Advisory
-            </a>
-          </li>
-          <li>
-            <a href="blog">
-              Our Blog
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-width">
-        <h6>Institutional Trading</h6>
-        <ul>
-          <li>
-            <a href="prime-vip.php">
-              Prime VIP
-            </a>
-          </li>
-          <li>
-            <a href="prime-vvip.php">
-              Prime VVIP
-            </a>
-          </li>
-          <li>
-            <a href="prime-special.php">
-              Prime Special
-            </a>
-          </li>
-        </ul>
-      </div>
-
 
     </div>
 
